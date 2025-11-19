@@ -1,2 +1,2 @@
-# Somatic_variants_Ansaloni_etal
-This repository contains the code the reproduce the analysis performed in the Ansaloni, Simi et al. manuscript
+# Somatic variants - Ansaloni *et al.*
+This repository contains the code to reproduce the analyses performed in the Ansaloni, Simi *et al.* manuscript
