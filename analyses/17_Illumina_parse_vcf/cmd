@@ -1,0 +1,16 @@
+#!/bin/bash
+
+set -e
+
+
+cd scripts/
+
+
+## 1 - parse germline variants, from vcf to bed
+Rscript parsevcf.R 
+
+
+## 2 - parse somatic variants, from vcf to bed
+Rscript parsevcf_somatic.R 
+
+

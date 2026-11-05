@@ -1,0 +1,34 @@
+#!/bin/bash
+#
+#PBS -q workq
+#PBS -l nodes=1:ncpus=20
+#PBS -l walltime=120:00:00
+#PBS -j oe
+#PBS -N manta_germ1
+
+cd $PBS_O_WORKDIR
+
+source activate python2_env
+
+bam=/projects/somatic_mouse_tissues/Illumina/mapped_nonDupl/WT_CTX_3_merged_sorted_mappednoDupl.bam
+fasta=/home/fansaloni/data/genomes/mouse/mm39/GRCm39.vM28.primary_assembly.genome.fa
+wfdir=/projects/somatic_mouse_tissues/Illumina/variant_calling/mappednoDupl/manta_default_SVlen15/output/
+
+# get sample-specific directory
+name=$(basename $bam | awk -F ".bam" '{ print $1 }')
+if [ -d ${wfdir}/${name} ]; then echo -e "\nERROR: ${wfdir}/${name} already exist\n" && exit; fi
+
+
+date
+echo "configuring workflow.."
+configManta.py --bam $bam --referenceFasta $fasta --runDir ${wfdir}/${name}
+
+
+date
+echo "running workflow"
+cd ${wfdir}/${name}
+./runWorkflow.py --quiet
+date
+
+echo done
+

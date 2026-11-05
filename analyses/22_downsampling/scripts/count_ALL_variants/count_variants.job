@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+#PBS -q workq
+#PBS -l nodes=1:ncpus=1
+#PBS -l walltime=120:00:00
+#PBS -j oe
+#PBS -N count_variants
+
+cd $PBS_O_WORKDIR
+
+./count_variants.sh

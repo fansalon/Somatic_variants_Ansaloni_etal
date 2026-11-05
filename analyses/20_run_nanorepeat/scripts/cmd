@@ -1,0 +1,1 @@
+~/scripts/Bash/nanorepeat/wrapper_nanorepeat ../input/bamlist2 /projects/somatic_mouse_tissues/ONT/sniffles/genome/GRCm39.primary_assembly.genome.fa ../input/input_SR.bed ../output/ 8

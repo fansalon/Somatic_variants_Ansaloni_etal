@@ -1,0 +1,79 @@
+#!/bin/bash
+
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=20
+#SBATCH --mem=384G # Memory per node or per task
+#SBATCH --partition=gpuv-longrun
+#SBATCH --time=72:00:00
+#SBATCH --gres=gpu:4
+
+set -e
+
+####################################################################################################
+outdir=./
+name=WT_2_CTX
+converter=f5_to_pod5.py
+genome=/path/to/GRCm39.primary_assembly.genome.fa
+threads=20
+coverage=41
+readlen=6328
+####################################################################################################
+
+cd $outdir
+
+####################################################################################################
+### 01 - simulate fast5
+date
+echo "Generating fast5"
+/fastwork/fansaloni/DeepSimulator/src/deep_simulator.sh -i $genome -o $name \
+	-S 110322 -c $threads -B 1 -K $coverage -l $readlen
+echo -e "\tDone"
+####################################################################################################
+
+
+
+####################################################################################################
+### 02 - convert fast5 single to multi
+date
+echo "Converting single to multi fast5"
+single_to_multi_fast5 \
+  --input_path $name/fast5/ \
+  --save_path $name/multi_fast5/ \
+  --filename_base ${name}_multi \
+  --batch_size 4000 \
+  --threads $threads \
+  --recursive
+echo -e "\tDone"
+####################################################################################################
+
+
+
+####################################################################################################
+### 03 - convert fast5 to pod5
+date
+echo "Converting fast5 to pod5"
+python3 "$converter" \
+  --input  ${name}/multi_fast5 \
+  --output ${name}/pod5_full \
+  --jobs $threads \
+  --attempts 5 \
+  --scratch $TMPDIR \
+  --allow-missing 1
+echo -e "\tDone"
+####################################################################################################
+
+
+
+####################################################################################################
+### 04 - convert pod5 to fq
+date
+echo "Converting pod5 to fq"
+mkdir ${name}/fastq/
+dorado basecaller ~/Software/dorado-0.3.0-linux-x64/models/dna_r9.4.1_e8_sup@v3.6/ ${name}/pod5_full/ \
+	--emit-fastq --min-qscore 10 > ${name}/fastq/${name}.fastq
+gzip ${name}/fastq/${name}.fastq
+echo -e "\tDone"
+####################################################################################################
+
+date
+echo "ALL Done"

@@ -1,0 +1,11 @@
+Fri Nov  1 02:41:21 CET 2024
+configuring workflow..
+
+Successfully created workflow run script.
+To execute the workflow, run the following script and set appropriate options:
+
+/projects/somatic_mouse_tissues/Illumina/variant_calling/mappednoDupl/manta_default_SVlen15/output/WT_CTX_3_merged_sorted_mappednoDupl_somatic/runWorkflow.py
+Fri Nov  1 02:41:22 CET 2024
+running workflow
+Fri Nov  1 04:48:53 CET 2024
+done

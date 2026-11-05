@@ -1,0 +1,26 @@
+Wed Aug 19 22:25:53 CEST 2026
+Launching sniffles on /projects/somatic_mouse_tissues/ONT/DeepSimulator/02_minimap/simulated_aln.bam...
+Running Sniffles2, build 2.2
+  Run Mode: call_sample
+  Start on: 2026/08/19 20:25:55
+  Working dir: /projects/somatic_mouse_tissues/ONT/DeepSimulator/03_variant_calling/output/simulated_aln
+  Used command: /opt/mamba/bin/sniffles --input /projects/somatic_mouse_tissues/ONT/DeepSimulator/02_minimap/simulated_aln.bam --reference /projects/somatic_mouse_tissues/ONT/sniffles/genome/GRCm39.primary_assembly.genome.fa --threads 20 --output-rnames --minsupport 3 --minsvlen 20 --sample-id simulated_aln --snf simulated_aln.snf --vcf simulated_aln.vcf --mosaic --mosaic-af-min 0.03 --mosaic-include-germline --mosaic-qc-invdup-min-length 250 --tandem-repeats /projects/somatic_mouse_tissues/ONT/sniffles/01_get_tandem_rep/tandem_rep_GRCm39.bed
+==============================
+Opening for reading: /projects/somatic_mouse_tissues/ONT/DeepSimulator/02_minimap/simulated_aln.bam
+Opening for reading: /projects/somatic_mouse_tissues/ONT/sniffles/01_get_tandem_rep/tandem_rep_GRCm39.bed (tandem repeat annotations for 60 contigs)
+Opening for reading: /projects/somatic_mouse_tissues/ONT/sniffles/genome/GRCm39.primary_assembly.genome.fa
+Opening for writing: simulated_aln.vcf (single-sample, sorted)
+Opening for writing: simulated_aln.snf
+Info: 60 of 61 contigs in the input sample have associated tandem repeat annotations.
+
+Analyzing 16140875 alignments total...
+
+ 1186031/16140875 alignments processed (7%, 7307/s); 43/61 tasks done; parallel 18/20; 12812 candidates. 8 SVs. 
+16140875/16140875 alignments processed (100%, 43037/s); 61/61 tasks done; parallel 0/20; 153443 candidates. 12 SVs. 
+Took 375.05s.
+
+Done.
+Wrote 153443 SV candidates to simulated_aln.snf (for multi-sample calling).
+Wrote 12 called SVs to simulated_aln.vcf (single-sample, sorted)
+done
+Wed Aug 19 22:32:13 CEST 2026

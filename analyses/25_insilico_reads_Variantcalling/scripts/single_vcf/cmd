@@ -1,0 +1,1 @@
+./wrapper_sniffles2 /projects/somatic_mouse_tissues/ONT/sniffles/genome/GRCm39.primary_assembly.genome.fa /projects/somatic_mouse_tissues/ONT/DeepSimulator/03_variant_calling/input/bamlist 20 /projects/somatic_mouse_tissues/ONT/DeepSimulator/03_variant_calling/output/ /projects/somatic_mouse_tissues/ONT/sniffles/01_get_tandem_rep/tandem_rep_GRCm39.bed

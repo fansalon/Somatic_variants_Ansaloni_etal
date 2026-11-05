@@ -1,0 +1,20 @@
+#############################################################
+Loading vcf (Table_S1)
+Parsing INFO vcf field
+Parsing genotype and supporting read fields for each sample
+Calculating metrics
+	discarded 16 duplicated variants
+	discarded 1216 variants on scaffolds/chrM
+Annotating SVs - genomic features
+Import genomic features from the file as a GRanges object ... OK
+Prepare the 'metadata' data frame ... OK
+Make the TxDb object ... OK
+Annotating SVs - TE overlap
+Annotating SVs - Simple repeats overlap
+Writing results to parsed_vcf.bed
+Done.
+#############################################################
+
+real	3m1.914s
+user	4m53.789s
+sys	0m14.535s

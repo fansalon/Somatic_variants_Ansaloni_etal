@@ -1,0 +1,107 @@
+
+##################################################################################
+Loading:
+	../03_annotate_vcf_somatic/parsed_vcf_anno_somatic.bed
+Loading:
+	../02_get_somatic/somatic.Rds
+
+################################# Running GO on all the somatic variants
+Getting background genes (all the genes that host a genic somatic variant):  26646 
+
+
+- GO on Somatic_common_private (DEL)
+	selected 6651 DEL 
+		 Promoter :1037 
+		GO must be found in at least 5% of the genes ( 52 genes)
+		FDR = 0.05 
+		 Exon :19 
+		GO must be found in at least 5% of the genes ( 1 genes)
+		FDR = 0.05 
+		 Intron :1745 
+		GO must be found in at least 5% of the genes ( 87 genes)
+		FDR = 0.05 
+
+Getting background genes (all the genes that host a genic somatic variant):  26646 
+
+
+- GO on Somatic_common_recurrent (DEL)
+	selected 7953 DEL 
+		 Promoter :960 
+		GO must be found in at least 5% of the genes ( 48 genes)
+		FDR = 0.05 
+		 Exon :20 
+		GO must be found in at least 5% of the genes ( 1 genes)
+		FDR = 0.05 
+		 Intron :1704 
+		GO must be found in at least 5% of the genes ( 85 genes)
+		FDR = 0.05 
+
+################################# Running GO on all the somatic variants in simple repeats
+Getting background genes (all the genes that host a genic somatic variant):  10764 
+
+
+- GO on Somatic_common_private (DEL)
+	selected 5351 DEL 
+		 Promoter :846 
+		GO must be found in at least 5% of the genes ( 42 genes)
+		FDR = 0.1 
+		 Exon :8 
+		GO must be found in at least 5% of the genes ( 0 genes)
+		FDR = 0.1 
+		 Intron :1460 
+		GO must be found in at least 5% of the genes ( 73 genes)
+		FDR = 0.1 
+
+Getting background genes (all the genes that host a genic somatic variant):  10764 
+
+
+- GO on Somatic_common_recurrent (DEL)
+	selected 7681 DEL 
+		 Promoter :929 
+		GO must be found in at least 5% of the genes ( 46 genes)
+		FDR = 0.1 
+		 Exon :19 
+		GO must be found in at least 5% of the genes ( 1 genes)
+		FDR = 0.1 
+		 Intron :1662 
+		GO must be found in at least 5% of the genes ( 83 genes)
+		FDR = 0.1 
+
+################################# Running GO on all the somatic variants NOT in simple repeats
+Getting background genes (all the genes that host a genic somatic variant):  23516 
+
+
+- GO on Somatic_common_private (DEL)
+	selected 1300 DEL 
+		 Promoter :199 
+		GO must be found in at least 5% of the genes ( 10 genes)
+		FDR = 0.1 
+		 Exon :11 
+		GO must be found in at least 5% of the genes ( 1 genes)
+		FDR = 0.1 
+		 Intron :435 
+		GO must be found in at least 5% of the genes ( 22 genes)
+		FDR = 0.1 
+
+Getting background genes (all the genes that host a genic somatic variant):  23516 
+
+
+- GO on Somatic_common_recurrent (DEL)
+	selected 272 DEL 
+		 Promoter :33 
+		GO must be found in at least 5% of the genes ( 2 genes)
+		FDR = 0.1 
+		 Exon :1 
+		GO must be found in at least 5% of the genes ( 0 genes)
+		FDR = 0.1 
+		 Intron :69 
+		GO must be found in at least 5% of the genes ( 3 genes)
+		FDR = 0.1 
+Done
+
+#################################################################################
+
+
+real	4m13.619s
+user	0m23.014s
+sys	0m1.844s

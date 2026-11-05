@@ -1,0 +1,19 @@
+##################################################################################
+Loading:
+	../13_tldr/tldr_res_filtered.txt.bed
+	selecting:
+		somatic MEIs (122)
+Loading:
+	txdb.db
+Extracting features from txdb
+#################################################################################
+Annotating somatic MEIs
+Annotating shuffle somatic MEIs
+[1] "Analysing sample sample01 (1)"
+Time difference of 1.127175 mins
+Done.
+#################################################################################
+
+real	1m21.835s
+user	5m20.813s
+sys	0m4.528s

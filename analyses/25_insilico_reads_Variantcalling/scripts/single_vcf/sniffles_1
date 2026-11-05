@@ -1,0 +1,13 @@
+
+#!/bin/bash
+#
+#PBS -q workq
+#PBS -l select=1:ncpus=20:mem=100gb
+#PBS -l walltime=120:00:00
+#PBS -j oe
+#PBS -N sniffles_1
+
+cd $PBS_O_WORKDIR
+
+/projects/somatic_mouse_tissues/ONT/DeepSimulator/03_variant_calling/scripts/single_vcf/exe_sniffles2.sh /projects/somatic_mouse_tissues/ONT/DeepSimulator/02_minimap/simulated_aln.bam /projects/somatic_mouse_tissues/ONT/sniffles/genome/GRCm39.primary_assembly.genome.fa 20 /projects/somatic_mouse_tissues/ONT/DeepSimulator/03_variant_calling/output/ /projects/somatic_mouse_tissues/ONT/sniffles/01_get_tandem_rep/tandem_rep_GRCm39.bed
+

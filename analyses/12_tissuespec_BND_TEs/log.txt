@@ -1,0 +1,135 @@
+##################################################################################
+Starting analysis:
+	Bootstrap: 1000
+Selecting SVs of interest:
+	Selected 77615 somatic tissue-specific private variants
+	Selected 76305 somatic tissue-specific private BNDs
+
+CTX-vs-HIP CTX-vs-KID HIP-vs-CTX HIP-vs-KID KID-vs-CTX KID-vs-HIP 
+     23910      23909      28615      28616      23779      23781 
+
+Converting to bed
+Overlapping with TEs
+Shuffling analysis
+	Bootstrap: 210
+	Bootstrap: 220
+	Bootstrap: 230
+	Bootstrap: 240
+	Bootstrap: 250
+	Bootstrap: 260
+	Bootstrap: 270
+	Bootstrap: 280
+	Bootstrap: 290
+	Bootstrap: 300
+
+	Bootstrap: 410
+	Bootstrap: 420
+	Bootstrap: 430
+	Bootstrap: 440
+	Bootstrap: 450
+	Bootstrap: 460
+	Bootstrap: 470
+	Bootstrap: 480
+	Bootstrap: 490
+	Bootstrap: 500
+
+	Bootstrap: 610
+	Bootstrap: 620
+	Bootstrap: 630
+	Bootstrap: 640
+	Bootstrap: 650
+	Bootstrap: 660
+	Bootstrap: 670
+	Bootstrap: 680
+	Bootstrap: 690
+	Bootstrap: 700
+
+	Bootstrap: 10
+	Bootstrap: 20
+	Bootstrap: 30
+	Bootstrap: 40
+	Bootstrap: 50
+	Bootstrap: 60
+	Bootstrap: 70
+	Bootstrap: 80
+	Bootstrap: 90
+	Bootstrap: 100
+
+	Bootstrap: 310
+	Bootstrap: 320
+	Bootstrap: 330
+	Bootstrap: 340
+	Bootstrap: 350
+	Bootstrap: 360
+	Bootstrap: 370
+	Bootstrap: 380
+	Bootstrap: 390
+	Bootstrap: 400
+
+	Bootstrap: 510
+	Bootstrap: 520
+	Bootstrap: 530
+	Bootstrap: 540
+	Bootstrap: 550
+	Bootstrap: 560
+	Bootstrap: 570
+	Bootstrap: 580
+	Bootstrap: 590
+	Bootstrap: 600
+
+	Bootstrap: 710
+	Bootstrap: 720
+	Bootstrap: 730
+	Bootstrap: 740
+	Bootstrap: 750
+	Bootstrap: 760
+	Bootstrap: 770
+	Bootstrap: 780
+	Bootstrap: 790
+	Bootstrap: 800
+
+	Bootstrap: 810
+	Bootstrap: 820
+	Bootstrap: 830
+	Bootstrap: 840
+	Bootstrap: 850
+	Bootstrap: 860
+	Bootstrap: 870
+	Bootstrap: 880
+	Bootstrap: 890
+	Bootstrap: 900
+
+	Bootstrap: 110
+	Bootstrap: 120
+	Bootstrap: 130
+	Bootstrap: 140
+	Bootstrap: 150
+	Bootstrap: 160
+	Bootstrap: 170
+	Bootstrap: 180
+	Bootstrap: 190
+	Bootstrap: 200
+
+	Bootstrap: 910
+	Bootstrap: 920
+	Bootstrap: 930
+	Bootstrap: 940
+	Bootstrap: 950
+	Bootstrap: 960
+	Bootstrap: 970
+	Bootstrap: 980
+	Bootstrap: 990
+	Bootstrap: 1000
+
+Time difference of 1.998811 hours
+Calculating O/E statistics aggregating <1% TE pairs
+Calculating O/E statistics on all the TE pairs
+Writing to out
+Time difference of 2.004615 hours
+Done
+##################################################################################
+
+real	120m16.769s
+user	353m47.633s
+sys	517m40.285s
+

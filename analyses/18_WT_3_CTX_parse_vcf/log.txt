@@ -1,0 +1,13 @@
+###########################################################################################
+Loading vcf file: ../../zenodo/input_data/WT_3_CTX.vcf 
+	Formatting non BND variants
+	Formatting BND variants
+Overlapping with Simple repeats
+	 11597 variants overlapping simple repeats
+Overlapping with TEs
+	 3618 variants overlapping TEs
+###########################################################################################
+
+real	0m2.446s
+user	0m2.250s
+sys	0m0.169s

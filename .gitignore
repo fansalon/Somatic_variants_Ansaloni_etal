@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+.env

@@ -1,0 +1,79 @@
+Tue Feb 10 09:48:29 CET 2026
+
+Downsample: 0.1
+	generating bam..
+Tue Feb 10 09:59:25 CET 2026
+	counting variants..
+Tue Feb 10 10:00:19 CET 2026
+	removing bams..
+Tue Feb 10 10:00:33 CET 2026
+
+Downsample: 0.2
+	generating bam..
+Tue Feb 10 10:12:42 CET 2026
+	counting variants..
+Tue Feb 10 10:14:36 CET 2026
+	removing bams..
+Tue Feb 10 10:15:30 CET 2026
+
+Downsample: 0.3
+	generating bam..
+Tue Feb 10 10:43:12 CET 2026
+	counting variants..
+Tue Feb 10 10:46:04 CET 2026
+	removing bams..
+Tue Feb 10 10:47:22 CET 2026
+
+Downsample: 0.4
+	generating bam..
+Tue Feb 10 11:03:27 CET 2026
+	counting variants..
+Tue Feb 10 11:06:29 CET 2026
+	removing bams..
+Tue Feb 10 11:09:27 CET 2026
+
+Downsample: 0.5
+	generating bam..
+Tue Feb 10 11:36:50 CET 2026
+	counting variants..
+Tue Feb 10 11:41:07 CET 2026
+	removing bams..
+Tue Feb 10 11:43:47 CET 2026
+
+Downsample: 0.6
+	generating bam..
+Tue Feb 10 12:36:31 CET 2026
+	counting variants..
+Tue Feb 10 12:41:06 CET 2026
+	removing bams..
+Tue Feb 10 12:46:18 CET 2026
+
+Downsample: 0.7
+	generating bam..
+Tue Feb 10 13:49:59 CET 2026
+	counting variants..
+Tue Feb 10 13:55:33 CET 2026
+	removing bams..
+Tue Feb 10 14:02:13 CET 2026
+
+Downsample: 0.8
+	generating bam..
+Tue Feb 10 14:40:47 CET 2026
+	counting variants..
+Tue Feb 10 14:48:05 CET 2026
+	removing bams..
+Tue Feb 10 14:51:17 CET 2026
+
+Downsample: 0.9
+	generating bam..
+Tue Feb 10 16:18:28 CET 2026
+	counting variants..
+Tue Feb 10 16:24:54 CET 2026
+	removing bams..
+Tue Feb 10 16:34:57 CET 2026
+
+Full bam
+	generating bam.. (skipped)
+	counting variants..
+Tue Feb 10 16:44:01 CET 2026
+ALL Done

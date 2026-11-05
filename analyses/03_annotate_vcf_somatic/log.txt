@@ -1,0 +1,33 @@
+##################################################################################
+Loading:
+	vcf.bed file (parsed_vcf.bed)
+	somatic annotation object (somatic.Rds)
+Getting ID of:
+	common private SVs
+	common recurrent SVs
+	tissue-specific private SVs
+	tissue-specific recurrent SVs
+Annotating original SVs
+Defining sample(s) where each SV is found
+	10000 rows parsed (7%)
+	20000 rows parsed (14%)
+	30000 rows parsed (21%)
+	40000 rows parsed (27%)
+	50000 rows parsed (34%)
+	60000 rows parsed (41%)
+	70000 rows parsed (48%)
+	80000 rows parsed (55%)
+	90000 rows parsed (62%)
+	100000 rows parsed (69%)
+	110000 rows parsed (75%)
+	120000 rows parsed (82%)
+	130000 rows parsed (89%)
+	140000 rows parsed (96%)
+Writing output file (parsed_vcf_anno_somatic.bed)
+Done.
+##################################################################################
+
+real	2m31.039s
+user	2m31.010s
+sys	0m0.832s
+

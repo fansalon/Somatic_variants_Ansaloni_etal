@@ -1,0 +1,6 @@
+no_GT	Count	Supported_SVTYPE	Validated	Sample
+0	18	NA	False	WT_4_KID
+1	479	NA	False	WT_4_KID
+2	5494	DEL	True	WT_4_KID
+2	373	INS	False	WT_4_KID
+>2	136	NA	False	WT_4_KID

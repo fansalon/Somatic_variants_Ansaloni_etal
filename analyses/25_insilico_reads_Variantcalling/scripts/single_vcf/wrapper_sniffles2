@@ -1,0 +1,41 @@
+#! /bin/bash
+
+if [ $# -ne 5 ]
+then
+  echo "ERROR: incorrect number of arguments"
+  echo "usage: <genoma fasta> <bamlist> <threads> <outdir> <tandem repeats from findTandemRepeats.py>"
+  exit
+fi
+
+genome=$1
+bamlist=$2
+threads=$3
+outdir=$4
+tr=$5
+
+i=0
+while read -r bam
+do
+  i=$((i+1))
+  exe=sniffles_${i}
+cat <<EOF > $exe
+
+#!/bin/bash
+#
+#PBS -q workq
+#PBS -l select=1:ncpus=$threads:mem=100gb
+#PBS -l walltime=120:00:00
+#PBS -j oe
+#PBS -N sniffles_${i}
+
+cd \$PBS_O_WORKDIR
+
+/projects/somatic_mouse_tissues/ONT/DeepSimulator/03_variant_calling/scripts/single_vcf/exe_sniffles2.sh $bam $genome $threads $outdir $tr
+
+EOF
+
+  echo "qsub $exe"
+  qsub $exe
+
+
+done < $bamlist

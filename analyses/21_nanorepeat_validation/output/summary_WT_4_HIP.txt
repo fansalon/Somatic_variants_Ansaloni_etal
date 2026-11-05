@@ -1,0 +1,6 @@
+no_GT	Count	Supported_SVTYPE	Validated	Sample
+0	17	NA	False	WT_4_HIP
+1	598	NA	False	WT_4_HIP
+2	5333	DEL	True	WT_4_HIP
+2	421	INS	False	WT_4_HIP
+>2	131	NA	False	WT_4_HIP

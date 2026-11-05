@@ -1,0 +1,31 @@
+###########################################################################################
+Loading vcf file: ../../16_runManta_Illumina/output/germline/results/variants/diploidSV.vcf 
+	Formatting non BND variants
+	Formatting BND variants
+		found 1124 / 1618 specular BNDs
+		number of BNDs reduced to: 1618
+Overlapping with Simple repeats
+	 5249 variants overlapping simple repeats
+Overlapping with TEs
+	 901 variants overlapping TEs
+###########################################################################################
+###########################################################################################
+Loading vcf file: ../../16_runManta_Illumina/output/somatic/results/variants/tumorSV.vcf 
+Formatting vcf file to make it compatible with sansa
+	Formatting non BND variants
+	Formatting BND variants
+		found 15785 / 48670 specular BNDs
+			..10000
+			..20000
+			..30000
+			..40000
+		number of BNDs reduced to: 48670
+Overlapping with Simple repeats
+	 12206 variants overlapping simple repeats
+Overlapping with TEs
+	 15493 variants overlapping TEs
+###########################################################################################
+
+real	0m32.776s
+user	0m32.277s
+sys	0m0.543s

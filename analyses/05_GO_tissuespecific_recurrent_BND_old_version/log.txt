@@ -1,0 +1,288 @@
+##################################################################################
+Loading:
+	../03_annotate_vcf_somatic/parsed_vcf_anno_somatic.bed.gz
+Loading:
+	../02_get_somatic/somatic.Rds
+
+################################# Running GO on all the somatic variants
+Getting background genes (all the genes that host a genic somatic variant):  26646 
+
+
+01 - GO on Somatic_tissue_private (BND)
+	selected 76305 BND 
+
+	 KID_vs_HIP 
+		 Promoter :6567 
+		GO must be found in at least 5% of the genes ( 328 genes)
+		FDR = 0.05 
+		 Exon :518 
+		GO must be found in at least 5% of the genes ( 26 genes)
+		FDR = 0.05 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :6576 
+		GO must be found in at least 5% of the genes ( 329 genes)
+		FDR = 0.05 
+
+	 KID_vs_CTX 
+		 Promoter :6567 
+		GO must be found in at least 5% of the genes ( 328 genes)
+		FDR = 0.05 
+		 Exon :518 
+		GO must be found in at least 5% of the genes ( 26 genes)
+		FDR = 0.05 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :6576 
+		GO must be found in at least 5% of the genes ( 329 genes)
+		FDR = 0.05 
+
+	 CTX_vs_KID 
+		 Promoter :6611 
+		GO must be found in at least 5% of the genes ( 331 genes)
+		FDR = 0.05 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Exon :522 
+		GO must be found in at least 5% of the genes ( 26 genes)
+		FDR = 0.05 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :6629 
+		GO must be found in at least 5% of the genes ( 331 genes)
+		FDR = 0.05 
+
+	 CTX_vs_HIP 
+		 Promoter :6611 
+		GO must be found in at least 5% of the genes ( 331 genes)
+		FDR = 0.05 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Exon :522 
+		GO must be found in at least 5% of the genes ( 26 genes)
+		FDR = 0.05 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :6629 
+		GO must be found in at least 5% of the genes ( 331 genes)
+		FDR = 0.05 
+
+	 HIP_vs_CTX 
+		 Promoter :7746 
+		GO must be found in at least 5% of the genes ( 387 genes)
+		FDR = 0.05 
+		 Exon :651 
+		GO must be found in at least 5% of the genes ( 33 genes)
+		FDR = 0.05 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :7262 
+		GO must be found in at least 5% of the genes ( 363 genes)
+		FDR = 0.05 
+
+	 HIP_vs_KID 
+		 Promoter :7746 
+		GO must be found in at least 5% of the genes ( 387 genes)
+		FDR = 0.05 
+		 Exon :651 
+		GO must be found in at least 5% of the genes ( 33 genes)
+		FDR = 0.05 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :7262 
+		GO must be found in at least 5% of the genes ( 363 genes)
+		FDR = 0.05 
+
+################################# Running GO on all the somatic variants in simple repeats
+Getting background genes (all the genes that host a genic somatic variant):  10764 
+
+
+01 - GO on Somatic_tissue_private (BND)
+	selected 5912 BND 
+
+	 HIP_vs_CTX 
+		 Promoter :633 
+		GO must be found in at least 5% of the genes ( 32 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Exon :38 
+		GO must be found in at least 5% of the genes ( 2 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :1276 
+		GO must be found in at least 5% of the genes ( 64 genes)
+		FDR = 0.1 
+
+	 HIP_vs_KID 
+		 Promoter :633 
+		GO must be found in at least 5% of the genes ( 32 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Exon :38 
+		GO must be found in at least 5% of the genes ( 2 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :1276 
+		GO must be found in at least 5% of the genes ( 64 genes)
+		FDR = 0.1 
+
+	 KID_vs_CTX 
+		 Promoter :613 
+		GO must be found in at least 5% of the genes ( 31 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Exon :24 
+		GO must be found in at least 5% of the genes ( 1 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :1100 
+		GO must be found in at least 5% of the genes ( 55 genes)
+		FDR = 0.1 
+
+	 KID_vs_HIP 
+		 Promoter :613 
+		GO must be found in at least 5% of the genes ( 31 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Exon :24 
+		GO must be found in at least 5% of the genes ( 1 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :1101 
+		GO must be found in at least 5% of the genes ( 55 genes)
+		FDR = 0.1 
+
+	 CTX_vs_HIP 
+		 Promoter :575 
+		GO must be found in at least 5% of the genes ( 29 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Exon :34 
+		GO must be found in at least 5% of the genes ( 2 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :1095 
+		GO must be found in at least 5% of the genes ( 55 genes)
+		FDR = 0.1 
+
+	 CTX_vs_KID 
+		 Promoter :575 
+		GO must be found in at least 5% of the genes ( 29 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Exon :34 
+		GO must be found in at least 5% of the genes ( 2 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :1094 
+		GO must be found in at least 5% of the genes ( 55 genes)
+		FDR = 0.1 
+
+################################# Running GO on all the somatic variants NOT in simple repeats
+Getting background genes (all the genes that host a genic somatic variant):  23516 
+
+
+01 - GO on Somatic_tissue_private (BND)
+	selected 70393 BND 
+
+	 KID_vs_HIP 
+		 Promoter :6058 
+		GO must be found in at least 5% of the genes ( 303 genes)
+		FDR = 0.1 
+		 Exon :495 
+		GO must be found in at least 5% of the genes ( 25 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :6289 
+		GO must be found in at least 5% of the genes ( 314 genes)
+		FDR = 0.1 
+
+	 KID_vs_CTX 
+		 Promoter :6058 
+		GO must be found in at least 5% of the genes ( 303 genes)
+		FDR = 0.1 
+		 Exon :495 
+		GO must be found in at least 5% of the genes ( 25 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :6289 
+		GO must be found in at least 5% of the genes ( 314 genes)
+		FDR = 0.1 
+
+	 CTX_vs_KID 
+		 Promoter :6149 
+		GO must be found in at least 5% of the genes ( 307 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Exon :490 
+		GO must be found in at least 5% of the genes ( 24 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :6335 
+		GO must be found in at least 5% of the genes ( 317 genes)
+		FDR = 0.1 
+
+	 CTX_vs_HIP 
+		 Promoter :6149 
+		GO must be found in at least 5% of the genes ( 307 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Exon :490 
+		GO must be found in at least 5% of the genes ( 24 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :6335 
+		GO must be found in at least 5% of the genes ( 317 genes)
+		FDR = 0.1 
+
+	 HIP_vs_CTX 
+		 Promoter :7245 
+		GO must be found in at least 5% of the genes ( 362 genes)
+		FDR = 0.1 
+		 Exon :616 
+		GO must be found in at least 5% of the genes ( 31 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :6942 
+		GO must be found in at least 5% of the genes ( 347 genes)
+		FDR = 0.1 
+
+	 HIP_vs_KID 
+		 Promoter :7245 
+		GO must be found in at least 5% of the genes ( 362 genes)
+		FDR = 0.1 
+		 Exon :616 
+		GO must be found in at least 5% of the genes ( 31 genes)
+		FDR = 0.1 
+No results to show
+Please make sure that the organism is correct or set significant = FALSE
+		 Intron :6942 
+		GO must be found in at least 5% of the genes ( 347 genes)
+		FDR = 0.1 
+Done
+
+#################################################################################
+
+real	19m10.644s
+user	4m39.113s
+sys	0m2.875s
+

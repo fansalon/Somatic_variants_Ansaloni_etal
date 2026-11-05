@@ -1,0 +1,26 @@
+##################################################################################
+Loading:
+	../03_annotate_vcf_somatic/parsed_vcf_anno_somatic.bed.gz
+Loading:
+	../02_get_somatic/somatic.Rds
+Prepping files...
+Started shuffling analysis...
+Time difference of 9.361035 mins
+Getting final results...
+[1] "Bootstrap:100"
+[1] "Bootstrap:200"
+[1] "Bootstrap:300"
+[1] "Bootstrap:400"
+[1] "Bootstrap:500"
+[1] "Bootstrap:600"
+[1] "Bootstrap:700"
+[1] "Bootstrap:800"
+[1] "Bootstrap:900"
+[1] "Bootstrap:1000"
+Done
+
+##################################################################################
+
+real	9m32.933s
+user	89m9.085s
+sys	2m7.109s

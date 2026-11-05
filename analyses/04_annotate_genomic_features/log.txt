@@ -1,0 +1,138 @@
+##################################################################################
+Loading:
+	../03_annotate_vcf_somatic/parsed_vcf_anno_somatic.bed
+	selecting:
+		Somatic_common_private
+		Somatic_common_recurrent
+		Somatic_tissue_private
+Loading:
+	txdb.db
+Loading:
+	../02_get_somatic/somatic.Rds
+Extracting features from txdb
+#################################################################################
+Annotating ALL the variants
+
+
+01 - annotating Somatic_common_recurrent (DEL)
+	selected 7953 DEL 
+[1] "Analysing sample Somatic_common_recurrent (1)"
+Time difference of 1.292656 mins
+
+
+02 - annotating Somatic_common_recurrent (INS)
+	selected 206 INS 
+[1] "Analysing sample Somatic_common_recurrent (1)"
+Time difference of 1.063808 mins
+
+
+03 - annotating Somatic_common_private (DEL)
+	selected 6651 DEL 
+[1] "Analysing sample Somatic_common_private (1)"
+Time difference of 1.343232 mins
+
+
+04 - annotating Somatic_common_private (INS)
+	selected 202 INS 
+[1] "Analysing sample Somatic_common_private (1)"
+Time difference of 1.026515 mins
+
+
+05 - annotating Somatic_tissue_private (BND)
+	selected 76305 BND 
+
+CTX_vs_HIP CTX_vs_KID HIP_vs_CTX HIP_vs_KID KID_vs_CTX KID_vs_HIP 
+     23910      23909      28615      28616      23779      23781 
+[1] "Analysing sample KID_vs_HIP (1)"
+[1] "Analysing sample KID_vs_CTX (2)"
+[1] "Analysing sample CTX_vs_KID (3)"
+[1] "Analysing sample CTX_vs_HIP (4)"
+[1] "Analysing sample HIP_vs_CTX (5)"
+[1] "Analysing sample HIP_vs_KID (6)"
+Time difference of 1.435025 hours
+#################################################################################
+Annotating only the variants in simple repeat regions
+
+
+01 - annotating Somatic_common_private (DEL)
+	selected 5351 DEL 
+[1] "Analysing sample Somatic_common_private (1)"
+Time difference of 1.204227 mins
+
+
+02 - annotating Somatic_common_private (INS)
+	selected 165 INS 
+[1] "Analysing sample Somatic_common_private (1)"
+Time difference of 57.35198 secs
+
+
+03 - annotating Somatic_common_recurrent (DEL)
+	selected 7681 DEL 
+[1] "Analysing sample Somatic_common_recurrent (1)"
+Time difference of 1.282706 mins
+
+
+04 - annotating Somatic_common_recurrent (INS)
+	selected 150 INS 
+[1] "Analysing sample Somatic_common_recurrent (1)"
+Time difference of 57.76787 secs
+
+
+05 - annotating Somatic_tissue_private (BND)
+	selected 5912 BND 
+
+CTX_vs_HIP CTX_vs_KID HIP_vs_CTX HIP_vs_KID KID_vs_CTX KID_vs_HIP 
+      1875       1873       2158       2158       1879       1881 
+[1] "Analysing sample HIP_vs_CTX (1)"
+[1] "Analysing sample HIP_vs_KID (2)"
+[1] "Analysing sample KID_vs_CTX (3)"
+[1] "Analysing sample KID_vs_HIP (4)"
+[1] "Analysing sample CTX_vs_HIP (5)"
+[1] "Analysing sample CTX_vs_KID (6)"
+Time difference of 31.4493 mins
+#################################################################################
+Annotating only the variants not in simple repeat regions
+
+
+01 - annotating Somatic_common_recurrent (DEL)
+	selected 272 DEL 
+[1] "Analysing sample Somatic_common_recurrent (1)"
+Time difference of 1.036797 mins
+
+
+02 - annotating Somatic_common_recurrent (INS)
+	selected 56 INS 
+[1] "Analysing sample Somatic_common_recurrent (1)"
+Time difference of 58.11511 secs
+
+
+03 - annotating Somatic_common_private (DEL)
+	selected 1300 DEL 
+[1] "Analysing sample Somatic_common_private (1)"
+Time difference of 1.070328 mins
+
+
+04 - annotating Somatic_common_private (INS)
+	selected 37 INS 
+[1] "Analysing sample Somatic_common_private (1)"
+Time difference of 57.57483 secs
+
+
+05 - annotating Somatic_tissue_private (BND)
+	selected 70393 BND 
+
+CTX_vs_HIP CTX_vs_KID HIP_vs_CTX HIP_vs_KID KID_vs_CTX KID_vs_HIP 
+     22035      22036      26457      26458      21900      21900 
+[1] "Analysing sample KID_vs_HIP (1)"
+[1] "Analysing sample KID_vs_CTX (2)"
+[1] "Analysing sample CTX_vs_KID (3)"
+[1] "Analysing sample CTX_vs_HIP (4)"
+[1] "Analysing sample HIP_vs_CTX (5)"
+[1] "Analysing sample HIP_vs_KID (6)"
+Time difference of 1.072954 hours
+Done.
+
+real	196m1.729s
+user	490m30.264s
+sys	810m48.837s
+

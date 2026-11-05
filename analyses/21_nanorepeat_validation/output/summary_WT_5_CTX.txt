@@ -1,0 +1,6 @@
+no_GT	Count	Supported_SVTYPE	Validated	Sample
+0	11	NA	False	WT_5_CTX
+1	662	NA	False	WT_5_CTX
+2	5090	DEL	True	WT_5_CTX
+2	450	INS	False	WT_5_CTX
+>2	164	NA	False	WT_5_CTX

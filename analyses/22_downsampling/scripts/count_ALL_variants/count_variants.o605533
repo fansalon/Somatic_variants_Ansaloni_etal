@@ -1,0 +1,16 @@
+Counting variants in the vcf files in /projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/*/*vcf*
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_2_CTX/WT_2_CTX.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_2_HIP/WT_2_HIP.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_2_KID/WT_2_KID.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_3_CTX/WT_3_CTX.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_3_HIP/WT_3_HIP.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_3_KID/WT_3_KID.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_4_CTX/WT_4_CTX.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_4_HIP/WT_4_HIP.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_4_KID/WT_4_KID.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_5_CTX/WT_5_CTX.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_5_HIP/WT_5_HIP.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_5_KID/WT_5_KID.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_6_CTX/WT_6_CTX.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_6_HIP/WT_6_HIP.vcf.gz
+/projects/somatic_mouse_tissues/ONT/sniffles/02_variant_calling/output/WT_6_KID/WT_6_KID.vcf.gz

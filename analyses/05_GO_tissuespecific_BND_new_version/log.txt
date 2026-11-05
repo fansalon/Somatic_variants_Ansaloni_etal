@@ -1,0 +1,34 @@
+##################################################################################
+Loading:
+	../../zenodo/input_data/gencode.GRCm39.vM28.annotation.gtf
+	../03_annotate_vcf_somatic/parsed_vcf_anno_somatic.bed.gz
+	../02_get_somatic/somatic.Rds
+KID_vs_HIP 
+	 Promoter 
+	 Exon 
+	 Intron 
+KID_vs_CTX 
+	 Promoter 
+	 Exon 
+	 Intron 
+CTX_vs_KID 
+	 Promoter 
+	 Exon 
+	 Intron 
+CTX_vs_HIP 
+	 Promoter 
+	 Exon 
+	 Intron 
+HIP_vs_CTX 
+	 Promoter 
+	 Exon 
+	 Intron 
+HIP_vs_KID 
+	 Promoter 
+	 Exon 
+	 Intron 
+
+real	1m4.506s
+user	1m3.520s
+sys	0m1.887s
+

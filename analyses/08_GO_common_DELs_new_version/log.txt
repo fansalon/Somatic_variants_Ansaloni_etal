@@ -1,0 +1,24 @@
+##################################################################################
+Loading:
+	../../zenodo/input_data/gencode.GRCm39.vM28.annotation.gtf
+Loading:
+	../03_annotate_vcf_somatic/parsed_vcf_anno_somatic.bed.gz
+Loading:
+	../02_get_somatic/somatic.Rds
+Somatic_common_private 
+	 Promoter 
+	 Exon 
+	 Intron 
+Somatic_common_recurrent 
+	 Promoter 
+	 Exon 
+	 Intron 
+#################################################################################
+Done
+
+#################################################################################
+
+real	0m27.793s
+user	0m28.122s
+sys	0m0.912s
+

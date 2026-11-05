@@ -1,0 +1,13 @@
+#! /bin/bash
+
+# simply execute thus by ./launch_me
+
+
+samples=(WT_2_CTX WT_2_HIP WT_2_KID WT_3_CTX WT_3_HIP WT_3_KID WT_4_CTX WT_4_HIP WT_4_KID WT_5_CTX WT_5_HIP WT_5_KID WT_6_CTX WT_6_HIP WT_6_KID)
+
+for i in "${samples[@]}"
+do 
+  time python3 cmd.py --sample $i --SR ../../20_run_nanorepeat/input/input_SR.bed --nanorepeat_dir ../../20_run_nanorepeat/output/ --outdir ../output/ --combined_vcf ../../../zenodo/input_data/Table_S1.vcf
+done
+
+

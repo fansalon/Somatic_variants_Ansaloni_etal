@@ -1,0 +1,1 @@
+~/scripts/Bash/manta/launcher_manta_somatic /projects/somatic_mouse_tissues/Illumina/variant_calling/mappednoDupl/input/bamlist ~/data/genomes/mouse/mm39/GRCm39.vM28.primary_assembly.genome.fa /projects/somatic_mouse_tissues/Illumina/variant_calling/mappednoDupl/manta_default_SVlen15/output/

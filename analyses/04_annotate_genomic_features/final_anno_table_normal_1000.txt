@@ -1,0 +1,153 @@
+annotation	Obs	Exp	Tot	sd	bootstrap	Obs_perc	Exp_perc	Enrichment	zscore	pvalue	fdr	SVTYPE	somatic.anno	type
+Distal Intergenic	160	131.55	272	8.48	1000	58.82	48.36	0.28	3.36	7.89e-04	4.73e-03	DEL	Somatic_common_recurrent	common
+Downstream	1	0.49	272	0.68	1000	0.37	0.18	1.03	0.74	4.57e-01	4.57e-01	DEL	Somatic_common_recurrent	common
+Exon	1	3.78	272	2.01	1000	0.37	1.39	-1.92	-1.38	1.67e-01	2.51e-01	DEL	Somatic_common_recurrent	common
+Intron	71	90.47	272	7.92	1000	26.1	33.26	-0.35	-2.46	1.39e-02	4.17e-02	DEL	Somatic_common_recurrent	common
+Promoter	34	42.62	272	5.96	1000	12.5	15.67	-0.33	-1.45	1.48e-01	2.51e-01	DEL	Somatic_common_recurrent	common
+utr3	5	2.98	272	1.79	1000	1.84	1.1	0.75	1.13	2.60e-01	3.12e-01	DEL	Somatic_common_recurrent	common
+Distal Intergenic	26	27.85	56	3.71	1000	46.43	49.73	-0.1	-0.5	6.18e-01	6.36e-01	INS	Somatic_common_recurrent	common
+Exon	1	0.64	56	0.76	1000	1.79	1.14	0.65	0.47	6.36e-01	6.36e-01	INS	Somatic_common_recurrent	common
+Intron	10	18.53	56	3.55	1000	17.86	33.09	-0.89	-2.4	1.63e-02	4.07e-02	INS	Somatic_common_recurrent	common
+Promoter	17	8.34	56	2.71	1000	30.36	14.89	1.03	3.2	1.37e-03	6.87e-03	INS	Somatic_common_recurrent	common
+utr3	2	0.53	56	0.72	1000	3.57	0.95	1.92	2.03	4.22e-02	7.03e-02	INS	Somatic_common_recurrent	common
+Distal Intergenic	602	628.29	1300	18.09	1000	46.31	48.33	-0.06	-1.45	1.46e-01	3.76e-01	DEL	Somatic_common_private	common
+Downstream	1	2.34	1300	1.46	1000	0.08	0.18	-1.23	-0.92	3.58e-01	4.30e-01	DEL	Somatic_common_private	common
+Exon	11	16.42	1300	4.12	1000	0.85	1.26	-0.58	-1.32	1.88e-01	3.76e-01	DEL	Somatic_common_private	common
+Intron	474	436.6	1300	16.75	1000	36.46	33.58	0.12	2.23	2.56e-02	1.53e-01	DEL	Somatic_common_private	common
+Promoter	202	202.5	1300	12.77	1000	15.54	15.58	0	-0.04	9.69e-01	9.69e-01	DEL	Somatic_common_private	common
+utr3	10	13.56	1300	3.65	1000	0.77	1.04	-0.44	-0.98	3.29e-01	4.30e-01	DEL	Somatic_common_private	common
+Distal Intergenic	26	19.32	37	3.09	1000	70.27	52.22	0.43	2.16	3.08e-02	9.25e-02	INS	Somatic_common_private	common
+Intron	7	11.57	37	2.91	1000	18.92	31.28	-0.73	-1.57	1.16e-01	1.74e-01	INS	Somatic_common_private	common
+Promoter	4	5.31	37	2.13	1000	10.81	14.35	-0.41	-0.61	5.40e-01	5.40e-01	INS	Somatic_common_private	common
+Distal Intergenic/Distal Intergenic	4909	5031.66	22035	50.2	1000	22.28	22.83	-0.04	-2.44	1.45e-02	1.62e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Downstream/Distal Intergenic	35	38.61	22035	5.45	1000	0.16	0.18	-0.14	-0.66	5.08e-01	7.61e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Exon/Distal Intergenic	233	240.73	22035	13.26	1000	1.06	1.09	-0.05	-0.58	5.60e-01	7.95e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Exon/Exon	2	2.76	22035	1.64	1000	0.01	0.01	-0.47	-0.46	6.42e-01	8.65e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Intron/Distal Intergenic	7311	7249.97	22035	64.84	1000	33.18	32.9	0.01	0.94	3.47e-01	7.14e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Intron/Downstream	31	28.06	22035	4.76	1000	0.14	0.13	0.14	0.62	5.36e-01	7.86e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Intron/Exon	184	173.28	22035	11.79	1000	0.84	0.79	0.09	0.91	3.63e-01	7.27e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Intron/Intron	2591	2590.94	22035	41.45	1000	11.76	11.76	0	0	9.99e-01	9.99e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Promoter/Distal Intergenic	3244	3268.11	22035	47.78	1000	14.72	14.83	-0.01	-0.5	6.14e-01	8.44e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Promoter/Downstream	12	12.33	22035	3.36	1000	0.05	0.06	-0.04	-0.1	9.22e-01	9.90e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Promoter/Exon	82	78.93	22035	8.57	1000	0.37	0.36	0.06	0.36	7.20e-01	8.94e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Promoter/Intron	2379	2347.03	22035	41.69	1000	10.8	10.65	0.02	0.77	4.43e-01	7.43e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Promoter/Promoter	572	529.66	22035	22.2	1000	2.6	2.4	0.11	1.91	5.65e-02	3.51e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+utr3/Distal Intergenic	199	207.97	22035	12.57	1000	0.9	0.94	-0.06	-0.71	4.75e-01	7.56e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+utr3/Exon	5	4.88	22035	2.34	1000	0.02	0.02	0.03	0.05	9.60e-01	9.90e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+utr3/Intron	155	150.32	22035	11.16	1000	0.7	0.68	0.04	0.42	6.75e-01	8.76e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+utr3/Promoter	78	67.19	22035	7.65	1000	0.35	0.3	0.22	1.41	1.58e-01	5.93e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+utr3/utr3	5	2.08	22035	1.44	1000	0.02	0.01	1.26	2.03	4.21e-02	3.45e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+utr5/Distal Intergenic	3	4.39	22035	1.73	1000	0.01	0.02	-0.55	-0.8	4.22e-01	7.43e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+utr5/Exon	1	0.09	22035	0.29	1000	0	0	3.51	3.14	1.69e-03	4.45e-02	BND	Somatic_tissue_private	CTX_vs_HIP
+utr5/Intron	4	2.95	22035	1.61	1000	0.02	0.01	0.44	0.65	5.13e-01	7.61e-01	BND	Somatic_tissue_private	CTX_vs_HIP
+Distal Intergenic/Distal Intergenic	4910	5031.52	22036	49.82	1000	22.28	22.83	-0.04	-2.44	1.47e-02	1.62e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Downstream/Distal Intergenic	35	38.65	22036	5.39	1000	0.16	0.18	-0.14	-0.68	4.98e-01	7.61e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Exon/Distal Intergenic	233	240.79	22036	13.21	1000	1.06	1.09	-0.05	-0.59	5.55e-01	7.95e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Exon/Exon	2	2.79	22036	1.61	1000	0.01	0.01	-0.48	-0.49	6.25e-01	8.51e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Intron/Distal Intergenic	7311	7251.55	22036	63.42	1000	33.18	32.91	0.01	0.94	3.49e-01	7.14e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Intron/Downstream	31	27.9	22036	4.63	1000	0.14	0.13	0.15	0.67	5.04e-01	7.61e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Intron/Exon	184	173.12	22036	11.62	1000	0.83	0.79	0.09	0.94	3.49e-01	7.14e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Intron/Intron	2591	2590.42	22036	41.07	1000	11.76	11.76	0	0.01	9.89e-01	9.98e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Promoter/Distal Intergenic	3244	3268.09	22036	47.47	1000	14.72	14.83	-0.01	-0.51	6.12e-01	8.44e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Promoter/Downstream	12	12.42	22036	3.3	1000	0.05	0.06	-0.05	-0.13	8.98e-01	9.90e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Promoter/Exon	82	79	22036	8.64	1000	0.37	0.36	0.05	0.35	7.29e-01	8.94e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Promoter/Intron	2379	2347.08	22036	41.78	1000	10.8	10.65	0.02	0.76	4.45e-01	7.43e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Promoter/Promoter	572	529.71	22036	22.36	1000	2.6	2.4	0.11	1.89	5.86e-02	3.51e-01	BND	Somatic_tissue_private	CTX_vs_KID
+utr3/Distal Intergenic	199	207.99	22036	12.56	1000	0.9	0.94	-0.06	-0.72	4.74e-01	7.56e-01	BND	Somatic_tissue_private	CTX_vs_KID
+utr3/Exon	5	4.87	22036	2.26	1000	0.02	0.02	0.04	0.06	9.55e-01	9.90e-01	BND	Somatic_tissue_private	CTX_vs_KID
+utr3/Intron	155	150.47	22036	11.35	1000	0.7	0.68	0.04	0.4	6.90e-01	8.76e-01	BND	Somatic_tissue_private	CTX_vs_KID
+utr3/Promoter	78	67.03	22036	7.59	1000	0.35	0.3	0.22	1.45	1.48e-01	5.93e-01	BND	Somatic_tissue_private	CTX_vs_KID
+utr3/utr3	5	2.09	22036	1.44	1000	0.02	0.01	1.26	2.02	4.32e-02	3.45e-01	BND	Somatic_tissue_private	CTX_vs_KID
+utr5/Distal Intergenic	3	4.45	22036	1.7	1000	0.01	0.02	-0.57	-0.86	3.92e-01	7.43e-01	BND	Somatic_tissue_private	CTX_vs_KID
+utr5/Exon	1	0.09	22036	0.3	1000	0	0	3.49	3.09	2.03e-03	4.47e-02	BND	Somatic_tissue_private	CTX_vs_KID
+utr5/Intron	4	2.89	22036	1.54	1000	0.02	0.01	0.47	0.72	4.71e-01	7.56e-01	BND	Somatic_tissue_private	CTX_vs_KID
+Distal Intergenic/Distal Intergenic	5845	5973.56	26457	53.79	1000	22.09	22.58	-0.03	-2.39	1.68e-02	1.71e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Downstream/Distal Intergenic	52	43.76	26457	5.85	1000	0.2	0.17	0.25	1.41	1.59e-01	5.93e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Downstream/Downstream	1	0.07	26457	0.26	1000	0	0	3.88	3.64	2.69e-04	1.98e-02	BND	Somatic_tissue_private	HIP_vs_CTX
+Exon/Distal Intergenic	310	293.9	26457	14.36	1000	1.17	1.11	0.08	1.12	2.62e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Exon/Downstream	2	1.14	26457	1.07	1000	0.01	0	0.81	0.8	4.21e-01	7.43e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Exon/Exon	6	3.77	26457	1.88	1000	0.02	0.01	0.67	1.18	2.36e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Intron/Distal Intergenic	8690	8701.37	26457	70.87	1000	32.85	32.89	0	-0.16	8.73e-01	9.88e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Intron/Downstream	34	32.14	26457	5.23	1000	0.13	0.12	0.08	0.36	7.21e-01	8.94e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Intron/Exon	199	216.21	26457	13.22	1000	0.75	0.82	-0.12	-1.3	1.93e-01	6.53e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Intron/Intron	3183	3156.67	26457	47.18	1000	12.03	11.93	0.01	0.56	5.77e-01	8.10e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Promoter/Distal Intergenic	3902	3906	26457	50.53	1000	14.75	14.76	0	-0.08	9.37e-01	9.90e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Promoter/Downstream	15	14.48	26457	3.6	1000	0.06	0.05	0.05	0.15	8.84e-01	9.89e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Promoter/Exon	107	98.16	26457	9.37	1000	0.4	0.37	0.12	0.94	3.45e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Promoter/Intron	2930	2838.9	26457	46.32	1000	11.07	10.73	0.05	1.97	4.92e-02	3.45e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Promoter/Promoter	655	639.01	26457	23.46	1000	2.48	2.42	0.04	0.68	4.96e-01	7.61e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+utr3/Distal Intergenic	242	253.17	26457	13.43	1000	0.91	0.96	-0.07	-0.83	4.06e-01	7.43e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+utr3/Downstream	1	0.95	26457	0.96	1000	0	0	0.08	0.05	9.57e-01	9.90e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+utr3/Exon	3	6.3	26457	2.37	1000	0.01	0.02	-1.07	-1.39	1.63e-01	5.93e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+utr3/Intron	202	184.28	26457	12.34	1000	0.76	0.7	0.13	1.44	1.51e-01	5.93e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+utr3/Promoter	73	82.98	26457	8.51	1000	0.28	0.31	-0.18	-1.17	2.41e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+utr3/utr3	1	2.72	26457	1.59	1000	0	0.01	-1.44	-1.08	2.79e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+utr5/Distal Intergenic	2	3.44	26457	1.64	1000	0.01	0.01	-0.78	-0.88	3.80e-01	7.38e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+utr5/Intron	1	2.69	26457	1.48	1000	0	0.01	-1.43	-1.14	2.53e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+utr5/Promoter	1	1.18	26457	1.02	1000	0	0	-0.23	-0.17	8.63e-01	9.88e-01	BND	Somatic_tissue_private	HIP_vs_CTX
+Distal Intergenic/Distal Intergenic	5846	5974.56	26458	55.17	1000	22.1	22.58	-0.03	-2.33	1.98e-02	1.87e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Downstream/Distal Intergenic	52	43.76	26458	5.88	1000	0.2	0.17	0.25	1.4	1.61e-01	5.93e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Downstream/Downstream	1	0.07	26458	0.26	1000	0	0	3.9	3.62	2.99e-04	1.98e-02	BND	Somatic_tissue_private	HIP_vs_KID
+Exon/Distal Intergenic	310	294.33	26458	14.42	1000	1.17	1.11	0.07	1.09	2.77e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Exon/Downstream	2	1.12	26458	1.04	1000	0.01	0	0.84	0.85	3.97e-01	7.43e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Exon/Exon	6	3.69	26458	1.82	1000	0.02	0.01	0.7	1.27	2.04e-01	6.57e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Intron/Distal Intergenic	8690	8701.43	26458	71.45	1000	32.84	32.89	0	-0.16	8.73e-01	9.88e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Intron/Downstream	34	32.2	26458	5.26	1000	0.13	0.12	0.08	0.34	7.32e-01	8.94e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Intron/Exon	199	216.05	26458	13.37	1000	0.75	0.82	-0.12	-1.28	2.02e-01	6.57e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Intron/Intron	3183	3155.7	26458	46.79	1000	12.03	11.93	0.01	0.58	5.60e-01	7.95e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Promoter/Distal Intergenic	3902	3905.3	26458	50.65	1000	14.75	14.76	0	-0.07	9.48e-01	9.90e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Promoter/Downstream	15	14.45	26458	3.52	1000	0.06	0.05	0.05	0.16	8.75e-01	9.88e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Promoter/Exon	107	97.98	26458	9.68	1000	0.4	0.37	0.13	0.93	3.51e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Promoter/Intron	2930	2840.64	26458	46.74	1000	11.07	10.74	0.04	1.91	5.59e-02	3.51e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Promoter/Promoter	655	638.79	26458	23.37	1000	2.48	2.41	0.04	0.69	4.88e-01	7.61e-01	BND	Somatic_tissue_private	HIP_vs_KID
+utr3/Distal Intergenic	242	252.8	26458	13.23	1000	0.91	0.96	-0.06	-0.82	4.14e-01	7.43e-01	BND	Somatic_tissue_private	HIP_vs_KID
+utr3/Downstream	1	0.95	26458	0.98	1000	0	0	0.08	0.05	9.58e-01	9.90e-01	BND	Somatic_tissue_private	HIP_vs_KID
+utr3/Exon	3	6.41	26458	2.5	1000	0.01	0.02	-1.1	-1.37	1.72e-01	5.97e-01	BND	Somatic_tissue_private	HIP_vs_KID
+utr3/Intron	202	184.82	26458	12.12	1000	0.76	0.7	0.13	1.42	1.56e-01	5.93e-01	BND	Somatic_tissue_private	HIP_vs_KID
+utr3/Promoter	73	82.76	26458	8.47	1000	0.28	0.31	-0.18	-1.15	2.49e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_KID
+utr3/utr3	1	2.69	26458	1.58	1000	0	0.01	-1.43	-1.07	2.86e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_KID
+utr5/Distal Intergenic	2	3.48	26458	1.66	1000	0.01	0.01	-0.8	-0.89	3.74e-01	7.37e-01	BND	Somatic_tissue_private	HIP_vs_KID
+utr5/Intron	1	2.67	26458	1.46	1000	0	0.01	-1.42	-1.14	2.54e-01	7.14e-01	BND	Somatic_tissue_private	HIP_vs_KID
+utr5/Promoter	1	1.16	26458	1.02	1000	0	0	-0.21	-0.16	8.75e-01	9.88e-01	BND	Somatic_tissue_private	HIP_vs_KID
+Distal Intergenic/Distal Intergenic	4772	4918.46	21900	49.76	1000	21.79	22.46	-0.04	-2.94	3.25e-03	5.36e-02	BND	Somatic_tissue_private	KID_vs_CTX
+Downstream/Distal Intergenic	47	39.54	21900	5.39	1000	0.21	0.18	0.25	1.38	1.66e-01	5.93e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Exon/Distal Intergenic	229	248.24	21900	13.38	1000	1.05	1.13	-0.12	-1.44	1.51e-01	5.93e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Exon/Downstream	1	0.99	21900	1.02	1000	0	0	0.02	0.01	9.91e-01	9.98e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Exon/Exon	9	3.1	21900	1.8	1000	0.04	0.01	1.54	3.27	1.06e-03	3.51e-02	BND	Somatic_tissue_private	KID_vs_CTX
+Intron/Distal Intergenic	7258	7194.81	21900	64.85	1000	33.14	32.85	0.01	0.97	3.30e-01	7.14e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Intron/Downstream	32	28.33	21900	4.86	1000	0.15	0.13	0.18	0.76	4.50e-01	7.43e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Intron/Exon	179	180.02	21900	12.7	1000	0.82	0.82	-0.01	-0.08	9.36e-01	9.90e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Intron/Intron	2720	2614.55	21900	41.63	1000	12.42	11.94	0.06	2.53	1.13e-02	1.49e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Promoter/Distal Intergenic	3160	3249.62	21900	45.65	1000	14.43	14.84	-0.04	-1.96	4.97e-02	3.45e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Promoter/Downstream	9	12.65	21900	3.6	1000	0.04	0.06	-0.49	-1.01	3.11e-01	7.14e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Promoter/Exon	84	80.63	21900	8.37	1000	0.38	0.37	0.06	0.4	6.87e-01	8.76e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Promoter/Intron	2447	2368.99	21900	42.8	1000	11.17	10.82	0.05	1.82	6.84e-02	3.76e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Promoter/Promoter	524	533.03	21900	21.41	1000	2.39	2.43	-0.02	-0.42	6.73e-01	8.76e-01	BND	Somatic_tissue_private	KID_vs_CTX
+utr3/Distal Intergenic	187	199.99	21900	12.19	1000	0.85	0.91	-0.1	-1.07	2.87e-01	7.14e-01	BND	Somatic_tissue_private	KID_vs_CTX
+utr3/Exon	3	5.19	21900	2.2	1000	0.01	0.02	-0.79	-0.99	3.20e-01	7.14e-01	BND	Somatic_tissue_private	KID_vs_CTX
+utr3/Intron	157	145.36	21900	11.08	1000	0.72	0.66	0.11	1.05	2.93e-01	7.14e-01	BND	Somatic_tissue_private	KID_vs_CTX
+utr3/Promoter	72	66.05	21900	7.86	1000	0.33	0.3	0.12	0.76	4.49e-01	7.43e-01	BND	Somatic_tissue_private	KID_vs_CTX
+utr5/Distal Intergenic	4	3.75	21900	1.6	1000	0.02	0.02	0.09	0.16	8.74e-01	9.88e-01	BND	Somatic_tissue_private	KID_vs_CTX
+utr5/Intron	5	2.61	21900	1.47	1000	0.02	0.01	0.94	1.63	1.02e-01	5.19e-01	BND	Somatic_tissue_private	KID_vs_CTX
+utr5/Promoter	1	1.2	21900	1.03	1000	0	0.01	-0.26	-0.19	8.46e-01	9.88e-01	BND	Somatic_tissue_private	KID_vs_CTX
+Distal Intergenic/Distal Intergenic	4772	4918.46	21900	49.76	1000	21.79	22.46	-0.04	-2.94	3.25e-03	5.36e-02	BND	Somatic_tissue_private	KID_vs_HIP
+Downstream/Distal Intergenic	47	39.54	21900	5.39	1000	0.21	0.18	0.25	1.38	1.66e-01	5.93e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Exon/Distal Intergenic	229	248.24	21900	13.38	1000	1.05	1.13	-0.12	-1.44	1.51e-01	5.93e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Exon/Downstream	1	0.99	21900	1.02	1000	0	0	0.02	0.01	9.91e-01	9.98e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Exon/Exon	9	3.1	21900	1.8	1000	0.04	0.01	1.54	3.27	1.06e-03	3.51e-02	BND	Somatic_tissue_private	KID_vs_HIP
+Intron/Distal Intergenic	7258	7194.81	21900	64.85	1000	33.14	32.85	0.01	0.97	3.30e-01	7.14e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Intron/Downstream	32	28.33	21900	4.86	1000	0.15	0.13	0.18	0.76	4.50e-01	7.43e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Intron/Exon	179	180.02	21900	12.7	1000	0.82	0.82	-0.01	-0.08	9.36e-01	9.90e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Intron/Intron	2720	2614.55	21900	41.63	1000	12.42	11.94	0.06	2.53	1.13e-02	1.49e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Promoter/Distal Intergenic	3160	3249.62	21900	45.65	1000	14.43	14.84	-0.04	-1.96	4.97e-02	3.45e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Promoter/Downstream	9	12.65	21900	3.6	1000	0.04	0.06	-0.49	-1.01	3.11e-01	7.14e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Promoter/Exon	84	80.63	21900	8.37	1000	0.38	0.37	0.06	0.4	6.87e-01	8.76e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Promoter/Intron	2447	2368.99	21900	42.8	1000	11.17	10.82	0.05	1.82	6.84e-02	3.76e-01	BND	Somatic_tissue_private	KID_vs_HIP
+Promoter/Promoter	524	533.03	21900	21.41	1000	2.39	2.43	-0.02	-0.42	6.73e-01	8.76e-01	BND	Somatic_tissue_private	KID_vs_HIP
+utr3/Distal Intergenic	187	199.99	21900	12.19	1000	0.85	0.91	-0.1	-1.07	2.87e-01	7.14e-01	BND	Somatic_tissue_private	KID_vs_HIP
+utr3/Exon	3	5.19	21900	2.2	1000	0.01	0.02	-0.79	-0.99	3.20e-01	7.14e-01	BND	Somatic_tissue_private	KID_vs_HIP
+utr3/Intron	157	145.36	21900	11.08	1000	0.72	0.66	0.11	1.05	2.93e-01	7.14e-01	BND	Somatic_tissue_private	KID_vs_HIP
+utr3/Promoter	72	66.05	21900	7.86	1000	0.33	0.3	0.12	0.76	4.49e-01	7.43e-01	BND	Somatic_tissue_private	KID_vs_HIP
+utr5/Distal Intergenic	4	3.75	21900	1.6	1000	0.02	0.02	0.09	0.16	8.74e-01	9.88e-01	BND	Somatic_tissue_private	KID_vs_HIP
+utr5/Intron	5	2.61	21900	1.47	1000	0.02	0.01	0.94	1.63	1.02e-01	5.19e-01	BND	Somatic_tissue_private	KID_vs_HIP
+utr5/Promoter	1	1.2	21900	1.03	1000	0	0.01	-0.26	-0.19	8.46e-01	9.88e-01	BND	Somatic_tissue_private	KID_vs_HIP

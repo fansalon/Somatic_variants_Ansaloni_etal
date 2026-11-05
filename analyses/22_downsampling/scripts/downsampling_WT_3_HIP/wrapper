@@ -1,0 +1,42 @@
+#! /bin/bash
+
+if [ $# -ne 3 ]
+then
+  echo "ERROR: incorrect number of arguments"
+  echo "usage: <bam> <bootstrap> <outdir>"
+  exit
+fi
+
+bam=$1
+bootstrap=$2
+outdir=$3
+
+i=0
+for n in $(seq 1 $bootstrap)
+do
+  i=$((i+1))
+  exe=subsample_${i}
+cat <<EOF > $exe
+
+#!/bin/bash
+#
+#PBS -q workq
+#PBS -l select=1:ncpus=20:mem=100gb
+#PBS -l walltime=120:00:00
+#PBS -j oe
+#PBS -N $exe
+
+cd \$PBS_O_WORKDIR
+
+bam=$bam
+boot=$n
+outdir=$outdir
+
+/projects/somatic_mouse_tissues/ONT/downsampling/scripts/downsampling_WT_3_HIP/downsampl_snif.sh \$bam \$boot \$outdir
+
+EOF
+
+qsub $exe
+
+
+done

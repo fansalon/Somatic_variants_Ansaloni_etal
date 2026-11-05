@@ -1,0 +1,2 @@
+Here manta was run with default parameters. Except for: minScoredVariantSize = 15
+See --> configManta.py.ini

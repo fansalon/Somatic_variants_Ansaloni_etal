@@ -1,0 +1,365 @@
+term_id	term_name	intersection_size	query_size	term_size	effective_domain_size	p.adj	Gene.name	annotation
+GO:0000902	cell morphogenesis	1	2	789	13513	1	Trak1	Promoter
+GO:0051234	establishment of localization	1	2	2966	13513	1	Trak1	Promoter
+GO:0051179	localization	1	2	3479	13513	1	Trak1	Promoter
+GO:0051130	positive regulation of cellular component organization	1	2	876	13513	1	Trak1	Promoter
+GO:0051128	regulation of cellular component organization	1	2	1755	13513	1	Trak1	Promoter
+GO:0051094	positive regulation of developmental process	1	2	1030	13513	1	Trak1	Promoter
+GO:0050794	regulation of cellular process	1	2	6857	13513	1	Trak1	Promoter
+GO:0050793	regulation of developmental process	1	2	1804	13513	1	Trak1	Promoter
+GO:0050789	regulation of biological process	1	2	7120	13513	1	Trak1	Promoter
+GO:0050772	positive regulation of axonogenesis	1	2	71	13513	1	Trak1	Promoter
+GO:0050770	regulation of axonogenesis	1	2	138	13513	1	Trak1	Promoter
+GO:0050769	positive regulation of neurogenesis	1	2	226	13513	1	Trak1	Promoter
+GO:0050767	regulation of neurogenesis	1	2	342	13513	1	Trak1	Promoter
+GO:0048869	cellular developmental process	1	2	2964	13513	1	Trak1	Promoter
+GO:0048858	cell projection morphogenesis	1	2	551	13513	1	Trak1	Promoter
+GO:0048856	anatomical structure development	1	2	4069	13513	1	Trak1	Promoter
+GO:0048813	dendrite morphogenesis	1	2	147	13513	1	Trak1	Promoter
+GO:0048812	neuron projection morphogenesis	1	2	535	13513	1	Trak1	Promoter
+GO:0048731	system development	1	2	2776	13513	1	Trak1	Promoter
+GO:0048699	generation of neurons	1	2	1214	13513	1	Trak1	Promoter
+GO:0051239	regulation of multicellular organismal process	1	2	2163	13513	1	Trak1	Promoter
+GO:0051240	positive regulation of multicellular organismal process	1	2	1258	13513	1	Trak1	Promoter
+GO:0051640	organelle localization	1	2	437	13513	1	Trak1	Promoter
+GO:0051641	cellular localization	1	2	2375	13513	1	Trak1	Promoter
+GO:0120036	plasma membrane bounded cell projection organization	1	2	1252	13513	1	Trak1	Promoter
+GO:0120035	regulation of plasma membrane bounded cell projection organization	1	2	574	13513	1	Trak1	Promoter
+GO:0099518	vesicle cytoskeletal trafficking	1	2	51	13513	1	Trak1	Promoter
+GO:0099111	microtubule-based transport	1	2	164	13513	1	Trak1	Promoter
+GO:0098957	anterograde axonal transport of mitochondrion	1	2	6	13513	1	Trak1	Promoter
+GO:0098930	axonal transport	1	2	52	13513	1	Trak1	Promoter
+GO:0072384	organelle transport along microtubule	1	2	60	13513	1	Trak1	Promoter
+GO:0071840	cellular component organization or biogenesis	1	2	4335	13513	1	Trak1	Promoter
+GO:0070727	cellular macromolecule localization	1	2	1700	13513	1	Trak1	Promoter
+GO:0048667	cell morphogenesis involved in neuron differentiation	1	2	494	13513	1	Trak1	Promoter
+GO:0065007	biological regulation	1	2	7357	13513	1	Trak1	Promoter
+GO:0060284	regulation of cell development	1	2	651	13513	1	Trak1	Promoter
+GO:0051962	positive regulation of nervous system development	1	2	270	13513	1	Trak1	Promoter
+GO:0051960	regulation of nervous system development	1	2	413	13513	1	Trak1	Promoter
+GO:0051656	establishment of organelle localization	1	2	332	13513	1	Trak1	Promoter
+GO:0051654	establishment of mitochondrion localization	1	2	27	13513	1	Trak1	Promoter
+GO:0051650	establishment of vesicle localization	1	2	143	13513	1	Trak1	Promoter
+GO:0051649	establishment of localization in cell	1	2	1397	13513	1	Trak1	Promoter
+GO:0051648	vesicle localization	1	2	160	13513	1	Trak1	Promoter
+GO:0051646	mitochondrion localization	1	2	46	13513	1	Trak1	Promoter
+GO:0061564	axon development	1	2	401	13513	1	Trak1	Promoter
+GO:0048666	neuron development	1	2	958	13513	1	Trak1	Promoter
+GO:0048522	positive regulation of cellular process	1	2	4035	13513	1	Trak1	Promoter
+GO:0048518	positive regulation of biological process	1	2	4269	13513	1	Trak1	Promoter
+GO:0016043	cellular component organization	1	2	4236	13513	1	Trak1	Promoter
+GO:0010975	regulation of neuron projection development	1	2	428	13513	1	Trak1	Promoter
+GO:0010970	transport along microtubule	1	2	123	13513	1	Trak1	Promoter
+GO:0010720	positive regulation of cell development	1	2	376	13513	1	Trak1	Promoter
+GO:0009987	cellular process	1	2	10211	13513	1	Trak1	Promoter
+GO:0009653	anatomical structure morphogenesis	1	2	1942	13513	1	Trak1	Promoter
+GO:0008333	endosome to lysosome transport	1	2	47	13513	1	Trak1	Promoter
+GO:0008150	biological_process	2	2	13513	13513	1	Trak1,1700095A21Rik	Promoter
+GO:0008104	protein localization	1	2	1692	13513	1	Trak1	Promoter
+GO:0016192	vesicle-mediated transport	1	2	979	13513	1	Trak1	Promoter
+GO:0008089	anterograde axonal transport	1	2	42	13513	1	Trak1	Promoter
+GO:0007409	axonogenesis	1	2	362	13513	1	Trak1	Promoter
+GO:0007399	nervous system development	1	2	1777	13513	1	Trak1	Promoter
+GO:0007275	multicellular organism development	1	2	3261	13513	1	Trak1	Promoter
+GO:0007041	lysosomal transport	1	2	88	13513	1	Trak1	Promoter
+GO:0007034	vacuolar transport	1	2	110	13513	1	Trak1	Promoter
+GO:0007018	microtubule-based movement	1	2	310	13513	1	Trak1	Promoter
+GO:0007017	microtubule-based process	1	2	677	13513	1	Trak1	Promoter
+GO:0006810	transport	1	2	2766	13513	1	Trak1	Promoter
+GO:0006605	protein targeting	1	2	198	13513	1	Trak1	Promoter
+GO:0008088	axo-dendritic transport	1	2	65	13513	1	Trak1	Promoter
+GO:0120039	plasma membrane bounded cell projection morphogenesis	1	2	546	13513	1	Trak1	Promoter
+GO:0016358	dendrite development	1	2	247	13513	1	Trak1	Promoter
+GO:0022008	neurogenesis	1	2	1388	13513	1	Trak1	Promoter
+GO:0048468	cell development	1	2	2191	13513	1	Trak1	Promoter
+GO:0048311	mitochondrion distribution	1	2	25	13513	1	Trak1	Promoter
+GO:0047497	mitochondrion transport along microtubule	1	2	19	13513	1	Trak1	Promoter
+GO:0047496	vesicle transport along microtubule	1	2	35	13513	1	Trak1	Promoter
+GO:0046907	intracellular transport	1	2	897	13513	1	Trak1	Promoter
+GO:0045597	positive regulation of cell differentiation	1	2	676	13513	1	Trak1	Promoter
+GO:0045595	regulation of cell differentiation	1	2	1157	13513	1	Trak1	Promoter
+GO:0045184	establishment of protein localization	1	2	997	13513	1	Trak1	Promoter
+GO:0034643	establishment of mitochondrion localization, microtubule-mediated	1	2	19	13513	1	Trak1	Promoter
+GO:0019896	axonal transport of mitochondrion	1	2	13	13513	1	Trak1	Promoter
+GO:0033036	macromolecule localization	1	2	1986	13513	1	Trak1	Promoter
+GO:0032501	multicellular organismal process	1	2	4681	13513	1	Trak1	Promoter
+GO:0031346	positive regulation of cell projection organization	1	2	334	13513	1	Trak1	Promoter
+GO:0031344	regulation of cell projection organization	1	2	583	13513	1	Trak1	Promoter
+GO:0031175	neuron projection development	1	2	851	13513	1	Trak1	Promoter
+GO:0030705	cytoskeleton-dependent intracellular transport	1	2	146	13513	1	Trak1	Promoter
+GO:0030182	neuron differentiation	1	2	1145	13513	1	Trak1	Promoter
+GO:0030154	cell differentiation	1	2	2964	13513	1	Trak1	Promoter
+GO:0030030	cell projection organization	1	2	1267	13513	1	Trak1	Promoter
+GO:0022603	regulation of anatomical structure morphogenesis	1	2	644	13513	1	Trak1	Promoter
+GO:0032502	developmental process	1	2	4348	13513	1	Trak1	Promoter
+GO:2000026	regulation of multicellular organismal development	1	2	1058	13513	1	Trak1	Promoter
+GO:0048870	cell motility	2	23	1240	13513	1	Astn2,Prr5l	Intron
+GO:0048878	chemical homeostasis	2	23	760	13513	1	Dmd,Ptprn2	Intron
+GO:0050789	regulation of biological process	17	23	7120	13513	1	Dmd,Obox3,Nell1,Cadps2,Glmn,Astn2,Fstl5,Depdc1a,Lrrc4c,Prr5l,Dok6,Notch3,Zfpm2,Ube2e2,Ptprn2,Abca13,Akap7	Intron
+GO:0050793	regulation of developmental process	5	23	1804	13513	1	Dmd,Nell1,Lrrc4c,Notch3,Zfpm2	Intron
+GO:0050794	regulation of cellular process	16	23	6857	13513	1	Dmd,Obox3,Nell1,Cadps2,Glmn,Astn2,Fstl5,Depdc1a,Lrrc4c,Prr5l,Dok6,Notch3,Zfpm2,Ube2e2,Abca13,Akap7	Intron
+GO:0050804	modulation of chemical synaptic transmission	2	23	459	13513	1	Lrrc4c,Akap7	Intron
+GO:0050896	response to stimulus	11	23	5380	13513	1	Dmd,Cadps2,Glmn,Fstl5,Prr5l,Cyp2c38,Dok6,Notch3,Ube2e2,Ptprn2,Akap7	Intron
+GO:0048869	cellular developmental process	9	23	2964	13513	1	Dmd,Nell1,Glmn,Astn2,Fstl5,Lrrc4c,Notch3,Zfpm2,Dner	Intron
+GO:0048858	cell projection morphogenesis	3	23	551	13513	1	Dmd,Lrrc4c,Notch3	Intron
+GO:0048856	anatomical structure development	8	23	4069	13513	1	Dmd,Nell1,Glmn,Astn2,Lrrc4c,Notch3,Zfpm2,Dner	Intron
+GO:0048584	positive regulation of response to stimulus	2	23	1613	13513	1	Prr5l,Dok6	Intron
+GO:0048589	developmental growth	2	23	574	13513	1	Dmd,Zfpm2	Intron
+GO:0048646	anatomical structure formation involved in morphogenesis	3	23	822	13513	1	Glmn,Notch3,Zfpm2	Intron
+GO:0048666	neuron development	3	23	958	13513	1	Dmd,Lrrc4c,Notch3	Intron
+GO:0048667	cell morphogenesis involved in neuron differentiation	2	23	494	13513	1	Lrrc4c,Notch3	Intron
+GO:0048699	generation of neurons	4	23	1214	13513	1	Dmd,Astn2,Lrrc4c,Notch3	Intron
+GO:0048729	tissue morphogenesis	3	23	461	13513	1	Glmn,Astn2,Zfpm2	Intron
+GO:0048731	system development	7	23	2776	13513	1	Dmd,Glmn,Astn2,Lrrc4c,Notch3,Zfpm2,Dner	Intron
+GO:0048812	neuron projection morphogenesis	3	23	535	13513	1	Dmd,Lrrc4c,Notch3	Intron
+GO:0048583	regulation of response to stimulus	5	23	2705	13513	1	Dmd,Fstl5,Prr5l,Dok6,Akap7	Intron
+GO:0051641	cellular localization	7	23	2375	13513	1	Dmd,Cadps2,Astn2,Prr5l,Ptprn2,Abca13,Akap7	Intron
+GO:0051649	establishment of localization in cell	4	23	1397	13513	1	Cadps2,Prr5l,Ptprn2,Abca13	Intron
+GO:0051716	cellular response to stimulus	11	23	4284	13513	1	Dmd,Cadps2,Glmn,Fstl5,Prr5l,Cyp2c38,Dok6,Notch3,Ube2e2,Ptprn2,Akap7	Intron
+GO:0055001	muscle cell development	2	23	160	13513	1	Dmd,Dner	Intron
+GO:0055002	striated muscle cell development	2	23	137	13513	1	Dmd,Dner	Intron
+GO:0051254	positive regulation of RNA metabolic process	3	23	1148	13513	1	Prr5l,Notch3,Zfpm2	Intron
+GO:0051253	negative regulation of RNA metabolic process	3	23	922	13513	1	Depdc1a,Notch3,Zfpm2	Intron
+GO:0051252	regulation of RNA metabolic process	6	23	2195	13513	1	Dmd,Obox3,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0051049	regulation of transport	6	23	1255	13513	1	Dmd,Cadps2,Prr5l,Ptprn2,Abca13,Akap7	Intron
+GO:0051050	positive regulation of transport	5	23	709	13513	1	Dmd,Cadps2,Prr5l,Abca13,Akap7	Intron
+GO:0051093	negative regulation of developmental process	3	23	679	13513	1	Dmd,Notch3,Zfpm2	Intron
+GO:0051094	positive regulation of developmental process	3	23	1030	13513	1	Dmd,Nell1,Zfpm2	Intron
+GO:0051128	regulation of cellular component organization	3	23	1755	13513	1	Dmd,Lrrc4c,Abca13	Intron
+GO:0051130	positive regulation of cellular component organization	2	23	876	13513	1	Dmd,Abca13	Intron
+GO:0051146	striated muscle cell differentiation	2	23	225	13513	1	Dmd,Dner	Intron
+GO:0051174	regulation of phosphorus metabolic process	3	23	693	13513	1	Dmd,Glmn,Prr5l	Intron
+GO:0051179	localization	7	23	3479	13513	1	Dmd,Cadps2,Astn2,Prr5l,Ptprn2,Abca13,Akap7	Intron
+GO:0051046	regulation of secretion	2	23	545	13513	1	Cadps2,Ptprn2	Intron
+GO:0051234	establishment of localization	6	23	2966	13513	1	Dmd,Cadps2,Prr5l,Ptprn2,Abca13,Akap7	Intron
+GO:0051239	regulation of multicellular organismal process	4	23	2163	13513	1	Dmd,Nell1,Glmn,Zfpm2	Intron
+GO:0051240	positive regulation of multicellular organismal process	3	23	1258	13513	1	Nell1,Glmn,Zfpm2	Intron
+GO:0051241	negative regulation of multicellular organismal process	2	23	822	13513	1	Glmn,Zfpm2	Intron
+GO:0051246	regulation of protein metabolic process	4	23	1211	13513	1	Dmd,Nell1,Glmn,Prr5l	Intron
+GO:0051248	negative regulation of protein metabolic process	3	23	447	13513	1	Dmd,Nell1,Prr5l	Intron
+GO:0048523	negative regulation of cellular process	8	23	3511	13513	1	Dmd,Nell1,Glmn,Astn2,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0043269	regulation of monoatomic ion transport	2	23	322	13513	1	Dmd,Akap7	Intron
+GO:0043270	positive regulation of monoatomic ion transport	2	23	145	13513	1	Dmd,Akap7	Intron
+GO:0043408	regulation of MAPK cascade	2	23	468	13513	1	Dmd,Dok6	Intron
+GO:0043412	macromolecule modification	3	23	1559	13513	1	Dmd,Prr5l,Ube2e2	Intron
+GO:0043933	protein-containing complex organization	2	23	1072	13513	1	Dmd,Cadps2	Intron
+GO:0044085	cellular component biogenesis	2	23	2089	13513	1	Dmd,Cadps2	Intron
+GO:0044238	primary metabolic process	11	23	5825	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Cyp2c38,Notch3,Zfpm2,Ube2e2,Dner	Intron
+GO:0043170	macromolecule metabolic process	10	23	5303	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Notch3,Zfpm2,Ube2e2,Dner	Intron
+GO:0042127	regulation of cell population proliferation	5	23	1161	13513	1	Dmd,Nell1,Glmn,Notch3,Zfpm2	Intron
+GO:0042176	regulation of protein catabolic process	2	23	254	13513	1	Nell1,Glmn	Intron
+GO:0042221	response to chemical	5	23	2378	13513	1	Dmd,Prr5l,Cyp2c38,Ptprn2,Akap7	Intron
+GO:0042325	regulation of phosphorylation	3	23	602	13513	1	Dmd,Glmn,Prr5l	Intron
+GO:0042326	negative regulation of phosphorylation	2	23	177	13513	1	Dmd,Prr5l	Intron
+GO:0042327	positive regulation of phosphorylation	2	23	412	13513	1	Glmn,Prr5l	Intron
+GO:0042391	regulation of membrane potential	2	23	354	13513	1	Dmd,Akap7	Intron
+GO:0042692	muscle cell differentiation	3	23	304	13513	1	Dmd,Glmn,Dner	Intron
+GO:0042886	amide transport	2	23	285	13513	1	Ptprn2,Abca13	Intron
+GO:0043009	chordate embryonic development	2	23	560	13513	1	Glmn,Zfpm2	Intron
+GO:0042592	homeostatic process	3	23	1278	13513	1	Dmd,Cadps2,Ptprn2	Intron
+GO:0045184	establishment of protein localization	2	23	997	13513	1	Prr5l,Ptprn2	Intron
+GO:0045321	leukocyte activation	2	23	661	13513	1	Psg16,Glmn	Intron
+GO:0046649	lymphocyte activation	2	23	544	13513	1	Psg16,Glmn	Intron
+GO:0045944	positive regulation of transcription by RNA polymerase II	2	23	835	13513	1	Notch3,Zfpm2	Intron
+GO:0048468	cell development	4	23	2191	13513	1	Dmd,Lrrc4c,Notch3,Dner	Intron
+GO:0048513	animal organ development	5	23	2088	13513	1	Dmd,Nell1,Notch3,Zfpm2,Dner	Intron
+GO:0048514	blood vessel morphogenesis	3	23	426	13513	1	Glmn,Notch3,Zfpm2	Intron
+GO:0048518	positive regulation of biological process	11	23	4269	13513	1	Dmd,Nell1,Cadps2,Glmn,Prr5l,Dok6,Notch3,Zfpm2,Ube2e2,Abca13,Akap7	Intron
+GO:0048519	negative regulation of biological process	8	23	3670	13513	1	Dmd,Nell1,Glmn,Astn2,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0048522	positive regulation of cellular process	11	23	4035	13513	1	Dmd,Nell1,Cadps2,Glmn,Prr5l,Dok6,Notch3,Zfpm2,Ube2e2,Abca13,Akap7	Intron
+GO:0046903	secretion	2	23	750	13513	1	Cadps2,Ptprn2	Intron
+GO:0045937	positive regulation of phosphate metabolic process	2	23	461	13513	1	Glmn,Prr5l	Intron
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	3	23	1283	13513	1	Prr5l,Notch3,Zfpm2	Intron
+GO:0045595	regulation of cell differentiation	4	23	1157	13513	1	Dmd,Nell1,Notch3,Zfpm2	Intron
+GO:0045596	negative regulation of cell differentiation	3	23	489	13513	1	Dmd,Notch3,Zfpm2	Intron
+GO:0045597	positive regulation of cell differentiation	2	23	676	13513	1	Dmd,Nell1	Intron
+GO:0045664	regulation of neuron differentiation	2	23	165	13513	1	Dmd,Notch3	Intron
+GO:0045665	negative regulation of neuron differentiation	2	23	62	13513	1	Dmd,Notch3	Intron
+GO:0045936	negative regulation of phosphate metabolic process	2	23	204	13513	1	Dmd,Prr5l	Intron
+GO:0045892	negative regulation of DNA-templated transcription	3	23	845	13513	1	Depdc1a,Notch3,Zfpm2	Intron
+GO:0045893	positive regulation of DNA-templated transcription	2	23	1050	13513	1	Notch3,Zfpm2	Intron
+GO:0045934	negative regulation of nucleobase-containing compound metabolic process	3	23	999	13513	1	Depdc1a,Notch3,Zfpm2	Intron
+GO:0042110	T cell activation	2	23	387	13513	1	Psg16,Glmn	Intron
+GO:0055082	intracellular chemical homeostasis	2	23	530	13513	1	Dmd,Ptprn2	Intron
+GO:0141187	nucleic acid biosynthetic process	5	23	2549	13513	1	Dmd,Obox3,Depdc1a,Notch3,Zfpm2	Intron
+GO:1901700	response to oxygen-containing compound	2	23	1075	13513	1	Ptprn2,Akap7	Intron
+GO:1901701	cellular response to oxygen-containing compound	2	23	809	13513	1	Ptprn2,Akap7	Intron
+GO:0141124	intracellular signaling cassette	3	23	1199	13513	1	Dmd,Prr5l,Dok6	Intron
+GO:0140352	export from cell	2	23	700	13513	1	Cadps2,Ptprn2	Intron
+GO:0098609	cell-cell adhesion	3	23	618	13513	1	Glmn,Astn2,Lrrc4c	Intron
+GO:0098655	monoatomic cation transmembrane transport	2	23	461	13513	1	Dmd,Akap7	Intron
+GO:0098660	inorganic ion transmembrane transport	2	23	508	13513	1	Dmd,Akap7	Intron
+GO:0098662	inorganic cation transmembrane transport	2	23	459	13513	1	Dmd,Akap7	Intron
+GO:0098916	anterograde trans-synaptic signaling	5	23	590	13513	1	Dmd,Cadps2,Lrrc4c,Ptprn2,Akap7	Intron
+GO:1902531	regulation of intracellular signal transduction	4	23	1307	13513	1	Dmd,Prr5l,Dok6,Akap7	Intron
+GO:0099003	vesicle-mediated transport in synapse	2	23	193	13513	1	Cadps2,Abca13	Intron
+GO:0099504	synaptic vesicle cycle	2	23	160	13513	1	Cadps2,Abca13	Intron
+GO:0099536	synaptic signaling	5	23	627	13513	1	Dmd,Cadps2,Lrrc4c,Ptprn2,Akap7	Intron
+GO:0099537	trans-synaptic signaling	5	23	595	13513	1	Dmd,Cadps2,Lrrc4c,Ptprn2,Akap7	Intron
+GO:0099643	signal release from synapse	2	23	123	13513	1	Cadps2,Ptprn2	Intron
+GO:0120035	regulation of plasma membrane bounded cell projection organization	2	23	574	13513	1	Dmd,Lrrc4c	Intron
+GO:0120036	plasma membrane bounded cell projection organization	3	23	1252	13513	1	Dmd,Lrrc4c,Notch3	Intron
+GO:0120039	plasma membrane bounded cell projection morphogenesis	3	23	546	13513	1	Dmd,Lrrc4c,Notch3	Intron
+GO:0099177	regulation of trans-synaptic signaling	2	23	460	13513	1	Lrrc4c,Akap7	Intron
+GO:1902679	negative regulation of RNA biosynthetic process	3	23	851	13513	1	Depdc1a,Notch3,Zfpm2	Intron
+GO:2000026	regulation of multicellular organismal development	2	23	1058	13513	1	Nell1,Zfpm2	Intron
+GO:1904064	positive regulation of cation transmembrane transport	2	23	87	13513	1	Dmd,Akap7	Intron
+GO:1902680	positive regulation of RNA biosynthetic process	2	23	1053	13513	1	Notch3,Zfpm2	Intron
+GO:1902533	positive regulation of intracellular signal transduction	2	23	779	13513	1	Prr5l,Dok6	Intron
+GO:1904062	regulation of monoatomic cation transmembrane transport	2	23	181	13513	1	Dmd,Akap7	Intron
+GO:0090304	nucleic acid metabolic process	6	23	2961	13513	1	Dmd,Obox3,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0090287	regulation of cellular response to growth factor stimulus	2	23	231	13513	1	Dmd,Fstl5	Intron
+GO:0060627	regulation of vesicle-mediated transport	2	23	407	13513	1	Cadps2,Abca13	Intron
+GO:0061061	muscle structure development	4	23	468	13513	1	Dmd,Glmn,Zfpm2,Dner	Intron
+GO:0061564	axon development	2	23	401	13513	1	Lrrc4c,Notch3	Intron
+GO:0060538	skeletal muscle organ development	2	23	134	13513	1	Dmd,Dner	Intron
+GO:0055085	transmembrane transport	2	23	829	13513	1	Dmd,Akap7	Intron
+GO:0060255	regulation of macromolecule metabolic process	8	23	3695	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0065003	protein-containing complex assembly	2	23	952	13513	1	Dmd,Cadps2	Intron
+GO:0060341	regulation of cellular localization	2	23	817	13513	1	Astn2,Prr5l	Intron
+GO:0060429	epithelium development	3	23	864	13513	1	Dmd,Glmn,Astn2	Intron
+GO:0060537	muscle tissue development	3	23	320	13513	1	Dmd,Zfpm2,Dner	Intron
+GO:0065007	biological regulation	17	23	7357	13513	1	Dmd,Obox3,Nell1,Cadps2,Glmn,Astn2,Fstl5,Depdc1a,Lrrc4c,Prr5l,Dok6,Notch3,Zfpm2,Ube2e2,Ptprn2,Abca13,Akap7	Intron
+GO:0065008	regulation of biological quality	3	23	2099	13513	1	Dmd,Ptprn2,Akap7	Intron
+GO:0071495	cellular response to endogenous stimulus	2	23	812	13513	1	Dmd,Fstl5	Intron
+GO:0071705	nitrogen compound transport	3	23	1131	13513	1	Prr5l,Ptprn2,Abca13	Intron
+GO:0071840	cellular component organization or biogenesis	7	23	4335	13513	1	Dmd,Cadps2,Glmn,Lrrc4c,Ttll11,Notch3,Abca13	Intron
+GO:0072359	circulatory system development	3	23	798	13513	1	Glmn,Notch3,Zfpm2	Intron
+GO:0080090	regulation of primary metabolic process	8	23	3342	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0071363	cellular response to growth factor stimulus	2	23	469	13513	1	Dmd,Fstl5	Intron
+GO:0070727	cellular macromolecule localization	5	23	1700	13513	1	Dmd,Astn2,Prr5l,Ptprn2,Akap7	Intron
+GO:0070848	response to growth factor	2	23	477	13513	1	Dmd,Fstl5	Intron
+GO:0070887	cellular response to chemical stimulus	4	23	1490	13513	1	Prr5l,Cyp2c38,Ptprn2,Akap7	Intron
+GO:2001141	regulation of RNA biosynthetic process	5	23	2007	13513	1	Dmd,Obox3,Depdc1a,Notch3,Zfpm2	Intron
+GO:0007165	signal transduction	7	23	3343	13513	1	Dmd,Glmn,Fstl5,Prr5l,Dok6,Notch3,Akap7	Intron
+GO:0007166	cell surface receptor signaling pathway	5	23	1779	13513	1	Glmn,Fstl5,Dok6,Notch3,Akap7	Intron
+GO:0007167	enzyme-linked receptor protein signaling pathway	3	23	683	13513	1	Fstl5,Dok6,Akap7	Intron
+GO:0007178	cell surface receptor protein serine/threonine kinase signaling pathway	2	23	260	13513	1	Fstl5,Akap7	Intron
+GO:0007267	cell-cell signaling	5	23	936	13513	1	Dmd,Cadps2,Lrrc4c,Ptprn2,Akap7	Intron
+GO:0007268	chemical synaptic transmission	5	23	590	13513	1	Dmd,Cadps2,Lrrc4c,Ptprn2,Akap7	Intron
+GO:0007269	neurotransmitter secretion	2	23	123	13513	1	Cadps2,Ptprn2	Intron
+GO:0007275	multicellular organism development	8	23	3261	13513	1	Dmd,Nell1,Glmn,Astn2,Lrrc4c,Notch3,Zfpm2,Dner	Intron
+GO:0007399	nervous system development	6	23	1777	13513	1	Dmd,Glmn,Astn2,Lrrc4c,Notch3,Dner	Intron
+GO:0007409	axonogenesis	2	23	362	13513	1	Lrrc4c,Notch3	Intron
+GO:0007417	central nervous system development	2	23	664	13513	1	Dmd,Notch3	Intron
+GO:0006915	apoptotic process	2	23	1238	13513	1	Dmd,Nell1	Intron
+GO:0007154	cell communication	10	23	3764	13513	1	Dmd,Cadps2,Glmn,Fstl5,Lrrc4c,Prr5l,Dok6,Notch3,Ptprn2,Akap7	Intron
+GO:0007155	cell adhesion	4	23	948	13513	1	Dmd,Glmn,Astn2,Lrrc4c	Intron
+GO:0006950	response to stress	4	23	2366	13513	1	Dmd,Cadps2,Prr5l,Ube2e2	Intron
+GO:0006836	neurotransmitter transport	2	23	159	13513	1	Cadps2,Ptprn2	Intron
+GO:0007519	skeletal muscle tissue development	2	23	126	13513	1	Dmd,Dner	Intron
+GO:0009653	anatomical structure morphogenesis	6	23	1942	13513	1	Dmd,Glmn,Astn2,Lrrc4c,Notch3,Zfpm2	Intron
+GO:0009719	response to endogenous stimulus	2	23	950	13513	1	Dmd,Fstl5	Intron
+GO:0009790	embryo development	2	23	865	13513	1	Glmn,Zfpm2	Intron
+GO:0009792	embryo development ending in birth or egg hatching	2	23	572	13513	1	Glmn,Zfpm2	Intron
+GO:0009888	tissue development	6	23	1398	13513	1	Dmd,Nell1,Glmn,Astn2,Zfpm2,Dner	Intron
+GO:0009889	regulation of biosynthetic process	8	23	3293	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0009890	negative regulation of biosynthetic process	4	23	1537	13513	1	Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0009891	positive regulation of biosynthetic process	3	23	1785	13513	1	Glmn,Notch3,Zfpm2	Intron
+GO:0009892	negative regulation of metabolic process	6	23	1899	13513	1	Dmd,Nell1,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0009893	positive regulation of metabolic process	4	23	2421	13513	1	Glmn,Prr5l,Notch3,Zfpm2	Intron
+GO:0009894	regulation of catabolic process	3	23	678	13513	1	Nell1,Glmn,Prr5l	Intron
+GO:0009966	regulation of signal transduction	5	23	2066	13513	1	Dmd,Fstl5,Prr5l,Dok6,Akap7	Intron
+GO:0009967	positive regulation of signal transduction	2	23	1120	13513	1	Prr5l,Dok6	Intron
+GO:0009410	response to xenobiotic stimulus	2	23	256	13513	1	Dmd,Cyp2c38	Intron
+GO:0008104	protein localization	5	23	1692	13513	1	Dmd,Astn2,Prr5l,Ptprn2,Akap7	Intron
+GO:0008150	biological_process	23	23	13513	13513	1	Dmd,Gm7706,Psg16,Obox3,Nell1,Cadps2,Glmn,Astn2,Fstl5,Ralyl,Depdc1a,Lrrc4c,Ttll11,Prr5l,Cyp2c38,Dok6,Notch3,Zfpm2,Ube2e2,Ptprn2,Abca13,Akap7,Dner	Intron
+GO:0008152	metabolic process	11	23	6627	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Cyp2c38,Notch3,Zfpm2,Ube2e2,Dner	Intron
+GO:0008219	cell death	2	23	1283	13513	1	Dmd,Nell1	Intron
+GO:0007517	muscle organ development	3	23	211	13513	1	Dmd,Zfpm2,Dner	Intron
+GO:0008283	cell population proliferation	5	23	1403	13513	1	Dmd,Nell1,Glmn,Notch3,Zfpm2	Intron
+GO:0008285	negative regulation of cell population proliferation	2	23	490	13513	1	Nell1,Glmn	Intron
+GO:0009056	catabolic process	3	23	1593	13513	1	Nell1,Glmn,Prr5l	Intron
+GO:0009057	macromolecule catabolic process	3	23	899	13513	1	Nell1,Glmn,Prr5l	Intron
+GO:0009058	biosynthetic process	8	23	4676	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0009059	macromolecule biosynthetic process	8	23	4052	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0008284	positive regulation of cell population proliferation	3	23	680	13513	1	Dmd,Notch3,Zfpm2	Intron
+GO:0001932	regulation of protein phosphorylation	2	23	563	13513	1	Dmd,Prr5l	Intron
+GO:0001933	negative regulation of protein phosphorylation	2	23	164	13513	1	Dmd,Prr5l	Intron
+GO:0001944	vasculature development	3	23	522	13513	1	Glmn,Notch3,Zfpm2	Intron
+GO:0002009	morphogenesis of an epithelium	2	23	389	13513	1	Glmn,Astn2	Intron
+GO:0002376	immune system process	2	23	1649	13513	1	Psg16,Glmn	Intron
+GO:0000122	negative regulation of transcription by RNA polymerase II	2	23	650	13513	1	Notch3,Zfpm2	Intron
+GO:0000165	MAPK cascade	2	23	524	13513	1	Dmd,Dok6	Intron
+GO:0000902	cell morphogenesis	3	23	789	13513	1	Dmd,Lrrc4c,Notch3	Intron
+GO:0001568	blood vessel development	3	23	500	13513	1	Glmn,Notch3,Zfpm2	Intron
+GO:0001775	cell activation	2	23	752	13513	1	Psg16,Glmn	Intron
+GO:0001570	vasculogenesis	2	23	69	13513	1	Glmn,Zfpm2	Intron
+GO:0006139	nucleobase-containing compound metabolic process	6	23	3307	13513	1	Dmd,Obox3,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0006351	DNA-templated transcription	5	23	2073	13513	1	Dmd,Obox3,Depdc1a,Notch3,Zfpm2	Intron
+GO:0006355	regulation of DNA-templated transcription	5	23	1999	13513	1	Dmd,Obox3,Depdc1a,Notch3,Zfpm2	Intron
+GO:0006357	regulation of transcription by RNA polymerase II	3	23	1608	13513	1	Obox3,Notch3,Zfpm2	Intron
+GO:0006366	transcription by RNA polymerase II	3	23	1657	13513	1	Obox3,Notch3,Zfpm2	Intron
+GO:0006468	protein phosphorylation	2	23	675	13513	1	Dmd,Prr5l	Intron
+GO:0006793	phosphorus metabolic process	3	23	1382	13513	1	Dmd,Glmn,Prr5l	Intron
+GO:0006796	phosphate-containing compound metabolic process	3	23	1379	13513	1	Dmd,Glmn,Prr5l	Intron
+GO:0006810	transport	6	23	2766	13513	1	Dmd,Cadps2,Prr5l,Ptprn2,Abca13,Akap7	Intron
+GO:0006811	monoatomic ion transport	2	23	723	13513	1	Dmd,Akap7	Intron
+GO:0006812	monoatomic cation transport	2	23	628	13513	1	Dmd,Akap7	Intron
+GO:0042063	gliogenesis	2	23	272	13513	1	Dmd,Dner	Intron
+GO:0009987	cellular process	21	23	10211	13513	1	Dmd,Psg16,Obox3,Nell1,Cadps2,Glmn,Astn2,Fstl5,Depdc1a,Lrrc4c,Ttll11,Prr5l,Cyp2c38,Dok6,Notch3,Zfpm2,Ube2e2,Ptprn2,Abca13,Akap7,Dner	Intron
+GO:0010467	gene expression	8	23	3776	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0032501	multicellular organismal process	10	23	4681	13513	1	Dmd,Psg16,Nell1,Cadps2,Glmn,Astn2,Lrrc4c,Notch3,Zfpm2,Dner	Intron
+GO:0032502	developmental process	9	23	4348	13513	1	Dmd,Nell1,Glmn,Astn2,Fstl5,Lrrc4c,Notch3,Zfpm2,Dner	Intron
+GO:0031400	negative regulation of protein modification process	2	23	233	13513	1	Dmd,Prr5l	Intron
+GO:0031399	regulation of protein modification process	2	23	729	13513	1	Dmd,Prr5l	Intron
+GO:0030154	cell differentiation	9	23	2964	13513	1	Dmd,Nell1,Glmn,Astn2,Fstl5,Lrrc4c,Notch3,Zfpm2,Dner	Intron
+GO:0030155	regulation of cell adhesion	2	23	570	13513	1	Dmd,Glmn	Intron
+GO:0030163	protein catabolic process	2	23	654	13513	1	Nell1,Glmn	Intron
+GO:0030182	neuron differentiation	3	23	1145	13513	1	Dmd,Lrrc4c,Notch3	Intron
+GO:0031175	neuron projection development	3	23	851	13513	1	Dmd,Lrrc4c,Notch3	Intron
+GO:0031344	regulation of cell projection organization	2	23	583	13513	1	Dmd,Lrrc4c	Intron
+GO:0034764	positive regulation of transmembrane transport	2	23	152	13513	1	Dmd,Akap7	Intron
+GO:0034765	regulation of monoatomic ion transmembrane transport	2	23	205	13513	1	Dmd,Akap7	Intron
+GO:0034767	positive regulation of monoatomic ion transmembrane transport	2	23	92	13513	1	Dmd,Akap7	Intron
+GO:0035239	tube morphogenesis	3	23	635	13513	1	Glmn,Notch3,Zfpm2	Intron
+GO:0035295	tube development	3	23	783	13513	1	Glmn,Notch3,Zfpm2	Intron
+GO:0035556	intracellular signal transduction	4	23	1879	13513	1	Dmd,Prr5l,Dok6,Akap7	Intron
+GO:0036211	protein modification process	3	23	1474	13513	1	Dmd,Prr5l,Ube2e2	Intron
+GO:0040007	growth	2	23	738	13513	1	Dmd,Zfpm2	Intron
+GO:0034762	regulation of transmembrane transport	2	23	312	13513	1	Dmd,Akap7	Intron
+GO:0034654	nucleobase-containing compound biosynthetic process	5	23	2696	13513	1	Dmd,Obox3,Depdc1a,Notch3,Zfpm2	Intron
+GO:0032879	regulation of localization	7	23	1562	13513	1	Dmd,Cadps2,Astn2,Prr5l,Ptprn2,Abca13,Akap7	Intron
+GO:0032880	regulation of protein localization	2	23	740	13513	1	Astn2,Prr5l	Intron
+GO:0032940	secretion by cell	2	23	649	13513	1	Cadps2,Ptprn2	Intron
+GO:0033002	muscle cell proliferation	2	23	194	13513	1	Notch3,Zfpm2	Intron
+GO:0033036	macromolecule localization	6	23	1986	13513	1	Dmd,Astn2,Prr5l,Ptprn2,Abca13,Akap7	Intron
+GO:0032774	RNA biosynthetic process	5	23	2486	13513	1	Dmd,Obox3,Depdc1a,Notch3,Zfpm2	Intron
+GO:0033554	cellular response to stress	3	23	1158	13513	1	Cadps2,Prr5l,Ube2e2	Intron
+GO:0034220	monoatomic ion transmembrane transport	2	23	517	13513	1	Dmd,Akap7	Intron
+GO:0030030	cell projection organization	3	23	1267	13513	1	Dmd,Lrrc4c,Notch3	Intron
+GO:0010959	regulation of metal ion transport	2	23	269	13513	1	Dmd,Akap7	Intron
+GO:0010975	regulation of neuron projection development	2	23	428	13513	1	Dmd,Lrrc4c	Intron
+GO:0012501	programmed cell death	2	23	1283	13513	1	Dmd,Nell1	Intron
+GO:0014706	striated muscle tissue development	3	23	304	13513	1	Dmd,Zfpm2,Dner	Intron
+GO:0014902	myotube differentiation	2	23	93	13513	1	Dmd,Dner	Intron
+GO:0014904	myotube cell development	2	23	33	13513	1	Dmd,Dner	Intron
+GO:0015031	protein transport	2	23	796	13513	1	Prr5l,Ptprn2	Intron
+GO:0010468	regulation of gene expression	8	23	3076	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0010556	regulation of macromolecule biosynthetic process	8	23	3154	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0010557	positive regulation of macromolecule biosynthetic process	3	23	1695	13513	1	Glmn,Notch3,Zfpm2	Intron
+GO:0010558	negative regulation of macromolecule biosynthetic process	4	23	1479	13513	1	Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0010562	positive regulation of phosphorus metabolic process	2	23	461	13513	1	Glmn,Prr5l	Intron
+GO:0010563	negative regulation of phosphorus metabolic process	2	23	204	13513	1	Dmd,Prr5l	Intron
+GO:0010604	positive regulation of macromolecule metabolic process	4	23	2175	13513	1	Glmn,Prr5l,Notch3,Zfpm2	Intron
+GO:0010605	negative regulation of macromolecule metabolic process	6	23	1742	13513	1	Dmd,Nell1,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0010646	regulation of cell communication	6	23	2457	13513	1	Dmd,Fstl5,Lrrc4c,Prr5l,Dok6,Akap7	Intron
+GO:0010647	positive regulation of cell communication	2	23	1341	13513	1	Prr5l,Dok6	Intron
+GO:0016043	cellular component organization	7	23	4236	13513	1	Dmd,Cadps2,Glmn,Lrrc4c,Ttll11,Notch3,Abca13	Intron
+GO:0016070	RNA metabolic process	6	23	2620	13513	1	Dmd,Obox3,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0022008	neurogenesis	5	23	1388	13513	1	Dmd,Astn2,Lrrc4c,Notch3,Dner	Intron
+GO:0022607	cellular component assembly	2	23	1961	13513	1	Dmd,Cadps2	Intron
+GO:0023051	regulation of signaling	6	23	2460	13513	1	Dmd,Fstl5,Lrrc4c,Prr5l,Dok6,Akap7	Intron
+GO:0023052	signaling	10	23	3743	13513	1	Dmd,Cadps2,Glmn,Fstl5,Lrrc4c,Prr5l,Dok6,Notch3,Ptprn2,Akap7	Intron
+GO:0023056	positive regulation of signaling	2	23	1344	13513	1	Prr5l,Dok6	Intron
+GO:0023061	signal release	2	23	436	13513	1	Cadps2,Ptprn2	Intron
+GO:0030001	metal ion transport	2	23	579	13513	1	Dmd,Akap7	Intron
+GO:0010001	glial cell differentiation	2	23	198	13513	1	Dmd,Dner	Intron
+GO:0016192	vesicle-mediated transport	2	23	979	13513	1	Cadps2,Abca13	Intron
+GO:0016310	phosphorylation	3	23	751	13513	1	Dmd,Glmn,Prr5l	Intron
+GO:0016477	cell migration	2	23	1087	13513	1	Astn2,Prr5l	Intron
+GO:0019219	regulation of nucleobase-containing compound metabolic process	6	23	2389	13513	1	Dmd,Obox3,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0019220	regulation of phosphate metabolic process	3	23	692	13513	1	Dmd,Glmn,Prr5l	Intron
+GO:0019222	regulation of metabolic process	8	23	4060	13513	1	Dmd,Obox3,Nell1,Glmn,Depdc1a,Prr5l,Notch3,Zfpm2	Intron
+GO:0019538	protein metabolic process	6	23	2570	13513	1	Dmd,Nell1,Glmn,Prr5l,Ube2e2,Dner	Intron
+GO:0019725	cellular homeostasis	2	23	601	13513	1	Dmd,Ptprn2	Intron

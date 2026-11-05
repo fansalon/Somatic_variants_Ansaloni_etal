@@ -1,0 +1,22 @@
+##################################################################################
+Loading libraries
+Loading vcf.bed file (parsed_vcf.bed)
+Classifying the 145763 SVs as 0/1, 1/1 or 0/0
+Counting in how many tissues each SV is found in each individual mouse
+Defining common and tissue-specific SVs
+[1] "CTX_vs_HIP"
+[1] "CTX_vs_KID"
+[1] "HIP_vs_CTX"
+[1] "HIP_vs_KID"
+[1] "KID_vs_CTX"
+[1] "KID_vs_HIP"
+Discarded 7771 tissue-specific SVs found in 3/3 tissues, in different mice
+	common SVs: 33637 
+	tissue-specific SVs: 82641 
+Writing results to somatic.Rds
+Done.
+##################################################################################
+
+real	0m3.491s
+user	0m5.596s
+sys	0m0.150s

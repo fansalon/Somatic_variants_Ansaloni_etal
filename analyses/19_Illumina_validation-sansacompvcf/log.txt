@@ -1,0 +1,44 @@
+Reading vcf files:
+	- ../../zenodo/input_data/WT_3_CTX.vcf
+	- ../16_runManta_Illumina/output/somatic/results/variants/tumorSV_mod.vcf
+Selecting 10844 somatic ONT
+Preparing input vcf files...
+Comparing ../../zenodo/input_data/WT_3_CTX.vcf and ../16_runManta_Illumina/output/somatic/results/variants/tumorSV_mod.vcf
+[2026-Nov-05 11:32:50] sansa compvcf -m 0 -e 0 -o ont_vs_tumor -a tumorSV_mod.vcf.gz WT_3_CTX.vcf.gz 
+[2026-Nov-05 11:32:50] 1 base samples and 1 comparison samples
+[2026-Nov-05 11:32:50] 1 common samples
+[2026-Nov-05 11:32:50] Parsing VCF/BCF file tumorSV_mod.vcf.gz
+[2026-Nov-05 11:32:50] Parsing VCF/BCF file WT_3_CTX.vcf.gz
+[2026-Nov-05 11:32:50] Comparing 17660 SVs with 63054 SVs in the base VCF/BCF file 
+[2026-Nov-05 11:32:51] Done.
+Validating BND..
+	validation %: 5% (248/4620)
+              SVType
+Classification  BND  DEL  DUP  INS
+            FP 4372 5245    1  742
+            TP  248  122    0   90
+
+
+
+Reading vcf files:
+	- ../../zenodo/input_data/WT_3_CTX.vcf
+	- ../16_runManta_Illumina/output/germline/results/variants/diploidSV.vcf
+Selecting 6840 germline ONT
+Preparing input vcf files...
+Comparing ../../zenodo/input_data/WT_3_CTX.vcf and ../16_runManta_Illumina/output/germline/results/variants/diploidSV.vcf
+[2026-Nov-05 11:32:52] sansa compvcf -m 0 -e 0 -o ont_vs_diploid -a diploidSV.vcf.gz WT_3_CTX.vcf.gz 
+[2026-Nov-05 11:32:52] 1 base samples and 1 comparison samples
+[2026-Nov-05 11:32:52] 1 common samples
+[2026-Nov-05 11:32:52] Parsing VCF/BCF file diploidSV.vcf.gz
+[2026-Nov-05 11:32:52] Parsing VCF/BCF file WT_3_CTX.vcf.gz
+[2026-Nov-05 11:32:52] Comparing 17660 SVs with 6991 SVs in the base VCF/BCF file 
+[2026-Nov-05 11:32:52] Done.
+              SVType
+Classification  DEL  INS
+            FP 2137 2735
+            TP  460 1508
+
+real	0m2.627s
+user	0m2.025s
+sys	0m0.280s
+

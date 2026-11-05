@@ -1,0 +1,7 @@
+
+
+Rscript scripts/Illumina_sansacompvcf_somatic.R 
+
+echo -e "\n\n"
+
+Rscript scripts/Illumina_sansacompvcf_germline.R

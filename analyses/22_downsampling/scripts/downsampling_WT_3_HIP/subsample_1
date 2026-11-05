@@ -1,0 +1,17 @@
+
+#!/bin/bash
+#
+#PBS -q workq
+#PBS -l select=1:ncpus=20:mem=100gb
+#PBS -l walltime=120:00:00
+#PBS -j oe
+#PBS -N subsample_1
+
+cd $PBS_O_WORKDIR
+
+bam=/projects/somatic_mouse_tissues/bam_mm2/WT_3_HIP.bam
+boot=1
+outdir=/projects/somatic_mouse_tissues/ONT/downsampling/output/downsampling_WT_3_HIP/
+
+/projects/somatic_mouse_tissues/ONT/downsampling/scripts/downsampling_WT_3_HIP/downsampl_snif.sh $bam $boot $outdir
+

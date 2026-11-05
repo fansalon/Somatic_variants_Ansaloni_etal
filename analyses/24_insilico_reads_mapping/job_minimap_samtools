@@ -1,0 +1,39 @@
+#!/bin/bash
+#
+#PBS -q workq
+#PBS -l select=1:ncpus=20:mem=100gb
+#PBS -l walltime=120:00:00
+#PBS -j oe
+#PBS -N job_minimap_samtools
+
+cd $PBS_O_WORKDIR
+echo $PWD
+
+module load samtools
+
+###############################################################################################
+genome=/path/to/GRCm39.vM28.primary_assembly.genome.fa
+fastq=/path/to/output/from/23_insilico_reads_generation/WT_2_CTX.fastq.gz
+cpu=20
+###############################################################################################
+
+
+
+### 01 - minimap
+date
+echo "running minimap2"
+minimap2 -y -t 20 -ax map-ont $genome $fastq > simulated_aln.sam
+
+### 02 - samtools
+date
+echo "running samtools view"
+samtools view -@ $cpu -Sb -F 2308 -q 10 -o tmp.sorted.bam simulated_aln.sam
+rm simulated_aln.sam
+echo date
+echo "running samtools sort"
+samtools sort -@ $cpu -o simulated_aln.bam tmp.sorted.bam
+rm tmp.sorted.bam
+samtools index -@ $cpu simulated_aln.bam
+
+echo "All done"
+date
