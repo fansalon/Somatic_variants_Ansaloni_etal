@@ -21,5 +21,5 @@ In the ```figures``` folder, the code to re-generate each figure is deposited. R
 
 
 
-## Step 3 ->
+## Step 3 -> run the code the reproduce all the analyses
 In the ```analyses``` folder, each analysis is contained in a numbered folder. Simply follow the order and run the code, if you'd like to reproduce it yourself. Some of the analysis are meant to be run, and were actually run, on a PC, some others were run on a cluster. There might be some reproducibility issues with some of the software versioning, but, at least in our hands, this does not change much.
