@@ -14,3 +14,11 @@ pip install zenodo-get
 # get all the data associated to this repo
 zenodo_get 23989158
 ```
+
+
+## Step 2 -> run the code the reproduce the figures
+In the ```figures``` folder, the code to re-generate each figure is deposited. Running the code via ```Rscript FigX.R``` should be enough to reproduce all the figures.
+
+
+
+## Step 3 ->
