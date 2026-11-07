@@ -12,7 +12,7 @@ Due to the GitHub file size limit, some of the files needed as input were deposi
 pip install zenodo-get
 
 # get all the data associated to this repo
-zenodo_get 23989158
+zenodo_get XXXXXXXXX (will be released upon publication)
 ```
 
 
