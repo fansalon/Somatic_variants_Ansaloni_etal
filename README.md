@@ -5,7 +5,7 @@ This repository contains the code to reproduce the analyses performed in this ma
 
 
 ## Step 1 -> get the data from Zenodo
-Due to the GitHub file size limit, some of the files needed as input were deposited on Zenodo (https://zenodo.org/records/23989158). Get the data and place the files in ```zenodo/input_data/```.
+Due to the GitHub file size limit, some of the files needed as input were deposited on Zenodo (will be released upon publication). Get the data and place the files in ```zenodo/input_data/```.
 
 ```
 # install this zenodo utility, in case not already installed
